@@ -4,6 +4,15 @@
 <dict>
 <key>Emoticons</key>
 <dict>
+<key>dogbutton.gif</key>
+<dict>
+<key>Equivalents</key>
+<array>
+<string>:dogbutton:</string>
+</array>
+<key>Name</key>
+<string>:dogbutton:</string>
+</dict>
 <key>turn7.gif</key>
 <dict>
 <key>Equivalents</key>
