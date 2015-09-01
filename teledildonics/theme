@@ -5,6 +5,292 @@ Author=internet
 
 [default]
 
+! Agni.png				:agni:
+! AhPuch.png				:ahpuch:
+! AMC.png				:amc: :ahmuzencab:
+! Anhur.png				:anhur:
+! Anubis.png				:anubis:
+! AoKuang.png				:aokuang:
+! Aphrodite.png				:aphrodite:
+! Apollo.png				:apollo:
+! Arachne.png				:arachne:
+! Ares.png				:ares:
+! Artemis.png				:artemis:
+! Athena.png				:athena:
+! Awilix.png				:awilix:
+! Bacchus.png				:bacchus:
+! Bakasura.png				:bakasura:
+! Bastet.png				:bastet:
+! Bellona.png				:bellona:
+! Cabrakan.png				:cabrakan: :cabroken:
+! Chaac.png				:chaac:
+! ChangE.png				:change:
+! Chronos.png				:chronos:
+! Cupid.png				:cupid:
+! Fenrir.png				:fenrir:
+! Freya.png				:freya:
+! Geb.png				:geb:
+! GuanYu.png				:guanyu:
+! Hades.png				:hades:
+! HeBo.png				:hebo:
+! Hel.png				:hel:
+! Hercules.png				:hercules:
+! HouYi.png				:houyi:
+! HunBatz.png				:hunbatz:
+! Isis.png				:isis:
+! Janus.png				:janus:
+! Kali.png				:kali:
+! Khepri.png				:khepri:
+! Kukulkan.png				:kukulkan:
+! Kumbhakarna.png				:kumbhakarna:
+! Loki.png				:loki:
+! Medusa.png				:medusa:
+! Mercury.png				:mercury:
+! Neith.png				:neith:
+! Nemesis.png				:nemesis:
+! NeZha.png				:nezha:
+! Nox.png				:nox:
+! NuWa.png				:nuwa:
+! Odin.png				:odin:
+! Osiris.png				:osiris:
+! Poseidon.png				:poseidon:
+! Ra.png				:smitera:
+! Ram.png				:ram:
+! Ratatoskr.png				:ratatoskr:
+! Ravana.png				:ravana:
+! Scylla.png				:scylla:
+! Serqet.png				:serquet:
+! Sobek.png				:sobek:
+! SunWukong.png				:sunwukong:
+! Sylvanus.png				:sylvanus:
+! Thanatos.png				:thanatos:
+! Thor.png				:thor:
+! Tyr.png				:tyr:
+! Ullr.png				:ullr:
+! Vamana.png				:vamana:
+! Vulcan.png				:vulcan:
+! Xbalanque.png				:xbalanque:
+! XingTian.png				:xingtian:
+! Ymir.png				:ymir:
+! Zeus.png				:zeus:
+! ZhongKui.png				:zhongkui:
+! 4Head.png				:4Head: :4head:
+! ANELE.png				:ANELE: :anele:
+! ArgieB8.png				:ArgieB8: :argieb8:
+! ArsonNoSexy.png				:ArsonNoSexy: :arsonnosexy:
+! AsianGlow.png				:AsianGlow: :asianglow:
+! AtGL.png				:AtGL: :atgl:
+! AthenaPMS.png				:AthenaPMS: :athenapms:
+! atheneAngry.png				:atheneAngry: :atheneangry:
+! atheneBored.png				:atheneBored: :athenebored:
+! atheneChicken.png				:atheneChicken: :athenechicken:
+! atheneFacepalm.png				:atheneFacepalm: :athenefacepalm:
+! atheneGas.png				:atheneGas: :athenegas:
+! atheneGasm.png				:atheneGasm: :athenegasm:
+! atheneHappy.png				:atheneHappy: :athenehappy:
+! atheneRage.png				:atheneRage: :athenerage:
+! atheneRankOne.png				:atheneRankOne: :athenerankone:
+! atheneRiot.png				:atheneRiot: :atheneriot:
+! atheneTitanic.png				:atheneTitanic: :athenetitanic:
+! atheneW.png				:atheneW: :athenew:
+! AtIvy.png				:AtIvy: :ativy:
+! AtWW.png				:AtWW: :atww:
+! BabyRage.png				:BabyRage: :babyrage:
+! BatChest.png				:BatChest: :batchest:
+! BCWarrior.png				:BCWarrior: :bcwarrior:
+! BibleThump.png				:BibleThump: :biblethump:
+! BigBrother.png				:BigBrother: :bigbrother:
+! BionicBunion.png				:BionicBunion: :bionicbunion:
+! BlargNaut.png				:BlargNaut: :blargnaut:
+! bleedPurple.png				:bleedPurple: :bleedpurple:
+! BloodTrail.png				:BloodTrail: :bloodtrail:
+! forsen30.png				:forsen30:
+! forsenAbort.png				:forsenAbort: :forsenabort:
+! forsenBanned.png				:forsenBanned: :forsenbanned:
+! forsenBoys.png				:forsenBoys: :forsenboys:
+! forsenC.png				:forsenC: :forsenc:
+! forsenClown.png				:forsenClown: :forsenclown:
+! forsenDDK.png				:forsenDDK: :forsenddk:
+! forsenGasm.png				:forsenGasm: :forsengasm:
+! forsenKev.png				:forsenKev: :forsenkev:
+! forsenMoney.png				:forsenMoney: :forsenmoney:
+! forsenODO.png				:forsenODO: :forsenodo:
+! forsenOP.png				:forsenOP: :forsenop:
+! forsenPepe.png				:forsenPepe: :forsenpepe:
+! forsenPlugdj.png				:forsenPlugdj: :forsenplugdj:
+! forsenPuke.png				:forsenPuke: :forsenpuke:
+! forsenRP.png				:forsenRP: :forsenrp:
+! forsenSambool.png				:forsenSambool: :forsensambool:
+! forsenSheffy.png				:forsenSheffy: :forsensheffy:
+! forsenSnus.png				:forsenSnus: :forsensnus:
+! forsenSS.png				:forsenSS: :forsenss:
+! forsenSwag.png				:forsenSwag: :forsenswag:
+! forsenW.png				:forsenW: :forsenw:
+! forsenWOW.png				:forsenWOW: :forsenwow:
+! forsenX.png				:forsenX: :forsenx:
+! FreakinStinkin.png				:FreakinStinkin: :freakinstinkin:
+! FUNgineer.png				:FUNgineer: :fungineer:
+! FunRun.png				:FunRun: :funrun:
+! FuzzyOtterOO.png				:FuzzyOtterOO: :fuzzyotteroo:
+! GasJoker.png				:GasJoker: :gasjoker:
+! GingerPower.png				:GingerPower: :gingerpower:
+! GrammarKing.png				:GrammarKing: :grammarking:
+! HassanChop.png				:HassanChop: :hassanchop:
+! HeyGuys.png				:HeyGuys: :heyguys:
+! HotPokket.png				:HotPokket: :hotpokket:
+! HumbleLife.png				:HumbleLife: :humblelife:
+! ItsBoshyTime.png				:ItsBoshyTime: :itsboshytime:
+! Jebaited.png				:Jebaited: :jebaited:
+! JKanStyle.png				:JKanStyle: :jkanstyle:
+! JonCarnage.png				:JonCarnage: :joncarnage:
+! KAPOW.png				:KAPOW: :kapow:
+! Kappa.png				:Kappa: :kappa:
+! KappaPride.png				:KappaPride: :kappapride:
+! Keepo.png				:Keepo: :keepo:
+! KevinTurtle.png				:KevinTurtle: :kevinturtle:
+! Kippa.png				:Kippa: :kippa:
+! Kreygasm.png				:Kreygasm: :kreygasm:
+! krippBird.png				:krippBird: :krippbird:
+! krippCat.png				:krippCat: :krippcat:
+! krippChamp.png				:krippChamp: :krippchamp:
+! krippDoge.png				:krippDoge: :krippdoge:
+! krippDonger.png				:krippDonger: :krippdonger:
+! krippDonger2.png				:krippDonger2: :krippdonger2:
+! krippFist.png				:krippFist: :krippfist:
+! krippGive.png				:krippGive: :krippgive:
+! krippLucky.png				:krippLucky: :kripplucky:
+! krippOJ.png				:krippOJ: krippoj:
+! krippPride.png				:krippPride: :kripppride:
+! krippRage.png				:krippRage: :kripprage:
+! krippRiot.png				:krippRiot: :krippriot:
+! krippSleeper.png				:krippSleeper: :krippsleeper:
+! krippSuccy.png				:krippSuccy: :krippsuccy:
+! krippThump.png				:krippThump: :krippthump:
+! krippToon.png				:krippToon: :kripptoon:
+! krippW.png				:krippW: :krippw:
+! krippWall.png				:krippWall: :krippwall:
+! krippWTF.png				:krippWTF: :krippwtf:
+! KZskull.png				:KZskull: :kzskull:
+! Mau5.png				:Mau5: :mau5:
+! mcaT.png				:mcaT: :mcat:
+! MechaSupes.png				:MechaSupes: :mechasupes:
+! MrDestructoid.png				:MrDestructoid: :mrdestructoid:
+! MVGame.png				:MVGame: :mvgame:
+! NightBat.png				:NightBat: :nightbat:
+! NinjaTroll.png				:NinjaTroll: :ninjatroll:
+! NoATK.png				:NoATK: :noatk:
+! NoNoSpot.png				:NoNoSpot: :nonospot:
+! NotLikeThis.png				:NotLikeThis: :notlikethis:
+! OMGScoots.png				:OMGScoots: :omgscoots:
+! OneHand.png				:OneHand: :onehand:
+! OpieOP.png				:OpieOP: :opieop:
+! OptimizePrime.png				:OptimizePrime: :optimizeprime:
+! OSbeaver.png				:OSbeaver: :osbeaver:
+! OSbury.png				:OSbury: :osbury:
+! OSdeo.png				:OSdeo: :osdeo:
+! OSfrog.png				:OSfrog: :osfrog:
+! OSkomodo.png				:OSkomodo: :oskomodo:
+! OSrob.png				:OSrob: :osrob:
+! OSsloth.png				:OSsloth: :ossloth:
+! panicBasket.png				:panicBasket: :panicbasket:
+! PanicVis.png				:PanicVis: :panicvis:
+! PazPazowitz.png				:PazPazowitz: :pazpazowitz:
+! PeoplesChamp.png				:PeoplesChamp: :peopleschamp:
+! PermaSmug.png				:PermaSmug: :permasmug:
+! PicoMause.png				:PicoMause: :picomause:
+! PipeHype.png				:PipeHype: :pipehype:
+! PJHarley.png				:PJHarley: :pjharley:
+! PJSalt.png				:PJSalt: :pjsalt:
+! PMSTwin.png				:PMSTwin: :pmstwin:
+! PogChamp.png				:PogChamp: :pogchamp:
+! Poooound.png				:Poooound: :poooound:
+! PraiseIt.png				:PraiseIt: :praiseit:
+! PRChase.png				:PRChase: :prchase:
+! PunchTrees.png				:PunchTrees: :punchtrees:
+! PuppeyFace.png				:PuppeyFace: :puppeyface:
+! RaccAttack.png				:RaccAttack: :raccattack:
+! RalpherZ.png				:RalpherZ: :ralpherz:
+! RedCoat.png				:RedCoat: :redcoat:
+! ResidentSleeper.png				:ResidentSleeper: :residentsleeper:
+! riPepperonis.png				:riPepperonis: :ripepperonis:
+! RitzMitz.png				:RitzMitz: :ritzmitz:
+! RuleFive.png				:RuleFive: :rulefive:
+! ShadyLulu.png				:ShadyLulu: :shadylulu:
+! Shazam.png				:Shazam: :shazam:
+! shazamicon.png				:shazamicon:
+! ShazBotstix.png				:ShazBotstix: :shazbotstix:
+! ShibeZ.png				:ShibeZ: :shibez:
+! smiteGnar.png				:smiteGnar: :smitegnar:
+! smiteGood.png				:smiteGood: :smitegood:
+! smiteGot.png				:smiteGot: :smitegot:
+! smiteKench.png				:smiteKench: :smitekench:
+! smiteLaugh.png				:smiteLaugh: :smitelaugh:
+! smiteNunu.png				:smiteNunu: :smitenunu:
+! smiteOlaf.png				:smiteOlaf: :smiteolaf:
+! smiteOld.png				:smiteOld: :smiteold:
+! smiteRip.png				:smiteRip: :smiterip:
+! smiteTax.png				:smiteTax: :smitetax:
+! SMOrc.png				:SMOrc: :smorc:
+! SMSkull.png				:SMSkull: :smskull:
+! SoBayed.png				:SoBayed: :sobayed:
+! SoonerLater.png				:SoonerLater: :soonerlater:
+! SriHead.png				:SriHead: :srihead:
+! SSSsss.png				:SSSsss: :ssssss:
+! StoneLightning.png				:StoneLightning: :stonelightning:
+! StrawBeary.png				:StrawBeary: :strawbeary:
+! SuperVinlin.png				:SuperVinlin: :supervinlin:
+! SwiftRage.png				:SwiftRage: :swiftrage:
+! tbBaconBiscuit.png				:tbBaconBiscuit: :tbbaconbiscuit:
+! tbChickenBiscuit.png				:tbChickenBiscuit: :tbchickenbiscuit:
+! tbQuesarito.png				:tbQuesarito: :tbquesarito:
+! tbSausageBiscuit.png				:tbSausageBiscuit: :tbsausagebiscuit:
+! tbSpicy.png				:tbSpicy: :tbspicy:
+! tbSriracha.png				:tbSriracha: :tbsriracha:
+! TF2John.png				:TF2John: :tf2john:
+! TheKing.png				:TheKing: :theking:
+! TheRinger.png				:TheRinger: :theringer:
+! TheTarFu.png				:TheTarFu: :thetarfu:
+! TheThing.png				:TheThing: :thething:
+! ThunBeast.png				:ThunBeast: :thunbeast:
+! TinyFace.png				:TinyFace: :tinyface:
+! TooSpicy.png				:TooSpicy: :toospicy:
+! TriHard.png				:TriHard: :trihard:
+! TTours.png				:TTours: :ttours:
+! twitchRaid.png				:twitchRaid: :twitchraid:
+! UncleNox.png				:UncleNox: :unclenox:
+! UnSane.png				:UnSane: :unsane:
+! VaultBoy.png				:VaultBoy: :vaultboy:
+! Volcania.png				:Volcania: :volcania:
+! WholeWheat.png				:WholeWheat: :wholewheat:
+! WinWaker.png				:WinWaker: :winwaker:
+! WTRuck.png				:WTRuck: :wtruck:
+! WutFace.png				:WutFace: :wutface:
+! YouWHY.png				:YouWHY: :youwhy:
+! BORT.png				:BORT:
+! BrainSlug.png				:BrainSlug: :brainslug:
+! BrokeBack.png				:BrokeBack: :brokeback:
+! BuddhaBar.png				:BuddhaBar: :buddhabar:
+! CoolCat.png				:CoolCat: :coolcat:
+! CorgiDerp.png				:CorgiDerp: :corgiderp:
+! CougarHunt.png				:CougarHunt: :cougarhunt:
+! DAESuppy.png				:DAESuppy: :daesuppy:
+! DansGame.png				:DansGame: :dansgame:
+! DatHass.png				:DatHass: :dathass:
+! DatSheffy.png				:DatSheffy: :datsheffy:
+! DBstyle.png				:DBstyle: :dbstyle:
+! deExcite.png				:deExcite: :deexcite:
+! deIlluminati.png				:deIlluminati: :deilluminati:
+! DendiFace.png				:DendiFace: :dendiface:
+! DogFace.png				:DogFace: :dogface:
+! DOOMGuy.png				:DOOMGuy: :doomguy:
+! duDudu.png				:duDudu: :dududu: :sandstorm:
+! EagleEye.png				:EagleEye: :eagleeye:
+! EleGiggle.png				:EleGiggle: :elegiggle:
+! EvilFetus.png				:EvilFetus: :evilfetus:
+! FailFish.png				:FailFish: :failfish:
+! FPSMarksman.png				:FPSMarksman: :fpsmarksman:
+! FrankerZ.png				:FrankerZ: :frankerz:
+! UleetBackup.png				:UleetBackup: :uleetbackup:
 ! wildmagic.png				:esports: :wildmagic:
 ! tidired.png				:tidi: :tidired:
 ! tidiyellow.png				:halftidi: :tidiyellow:
@@ -254,88 +540,6 @@ Author=internet
 ! trippletap.png				:trippletap:
 ! vivec.png				:vehk:
 ! wizards.png				:wizards:
-! 4head.png				:4head:
-! arsonnosexy.png			:arsonnosexy:
-! asianglow.png			:asianglow:
-! bcwarrior.png			:bcwarrior:
-! bort.png				:bort:
-! batchest.png			:batchest:
-! biblethump.png			:biblethump:
-! bigbrother.png			:bigbrother:
-! bionicbunion.png		:bionicbunion:
-! blargnaut.png			:blargbaut:
-! bloodtrail.png			:bloodtrail:
-! brainslug.png			:brainblug:
-! brokeback.png			:brokeback:
-! cougarhunt.png			:bougarbunt:
-! daesuppy.png			:daesuppy:
-! dbstyle.png				:dbstyle:
-! dansgame.png			:dansgame:
-! datsheffy.png			:datsheffy:
-! dogface.png				:dogface:
-! eagleeye.png			:eagleeye:
-! evilfetus.png			:evilfetus:
-! fpsmarksman.png			:fpsmarksman:
-! fungineer.png			:fungineer:
-! failfish.png			:failfish:
-! frankerz.png			:frankerz:
-! freakinstinkin.png		:freakinstinkin:
-! fuzzyotteroo.png		:fuzzyotteroo:
-! gingerpower.png			:gingerpower:
-! hassanchop.png			:hassanchop:
-! hotpokket.png			:hotpokket:
-! itsboshytime.png		:ttsboshytime:
-! jkanstyle.png			:jkanstyle:
-! jebaited.png			:jebaited:
-! joncarnage.png			:joncarnage:
-! kappa.png				:kappa:
-! keepo.png				:keepo:
-! kevinturtle.png			:kevinturtle:
-! kippa.png				:kippa:
-! kreygasm.png			:kreygasm:
-! mvgame.png				:mvgame:
-! mrdestructoid.png		:mrdestructoid:
-! ninjatroll.png			:ninjatroll:
-! nonospot.png			:nonospot:
-! omgscoots.png			:omgscoots:
-! onehand.png				:onehand:
-! opieop.png				:opieop:
-! optimizeprime.png		:optimizeprime:
-! pjsalt.png				:pjsalt:
-! pmstwin.png				:pmstwin:
-! pazpazowitz.png			:pazpazowitz:
-! picomause.png			:picomause:
-! pogchamp.png			:pogchamp:
-! poooound.png			:poooound:
-! punchtrees.png			:punchtrees:
-! ralpherz.png			:ralpherz:
-! redcoat.png				:redcoat:
-! residentsleeper.png		:residentsleeper:
-! rulefive.png			:rulefive:
-! smorc.png				:smorc:
-! smskull.png				:smskull:
-! ssssss.png				:ssssss:
-! shazbotstix.png			:shazbotstix:
-! sobayed.png				:sobayed:
-! soonerlater.png			:soonerlater:
-! stonelightning.png		:stonelightning:
-! strawbeary.png			:strawbeary:
-! supervinlin.png			:supervinlin:
-! swiftrage.png			:swiftrage:
-! tf2john.png				:tf2john:
-! tehfunrun.png			:tehfunrun:
-! theringer.png			:theringer:
-! thetarfu.png			:thetarfu:
-! thunbeast.png			:thunbeast:
-! tinyface.png			:tinyface:
-! toospicy.png			:toospicy:
-! trihard.png				:trihard:
-! uleetbackup.png			:uleetbackup:
-! unsane.png				:unsane:
-! volcania.png			:volcania:
-! wtruck.png				:wtruck:
-! wholewheat.png			:wholewheat:
-! winwaker.png			:winwaker:
 ! ayylmao.gif :ayylmao:
 ! supertoot.gif	:supertoot:
 ! foodsiren.gif	:foodsiren:
