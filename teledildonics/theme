@@ -5,6 +5,59 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 
 [default]
 
+! DVA_100.png				:dva100:
+! Hanzo_two.png				:twodragons: :geehanzo:
+! McCree_noon.jpg				:highnoon: :noon:
+! Pharah_nice.png				:playnice:
+! Reaper_sense.png				:reapersense:
+! Mercy_smug.jpg				:mercysmug:
+! Widowmaker_smug.jpg				:widowsmug:
+! Genji_shiggy.jpg				:genjishiggy: :genjiishygddt: :genjicostanza:
+! DVA_stare.png				:dvastare:
+! Tracer_laffo.png				:tracerlaffo:
+! Soldier76_feels.png				:76feel: :76feels: :76wojak:
+! Bastion_icon.png				:bastion:
+! Bastion_ult.png				:bastionult: :tank:
+! DVA_icon.png				:dva:
+! DVA_ult.png				:dvault: :callmecha:
+! Genji_icon.png				:genji:
+! Genji_ult.png				:genjiult: :dragonblade:
+! Hanzo_icon.png				:hanzo:
+! Hanzo_ult.png				:hanzoult: :dragonstrike:
+! Junkrat_icon.png				:junkrat:
+! Junkrat_ult.png				:junkratult: :riptire:
+! Lucio_icon.png				:lucio:
+! Lucio_ult.png				:lucioult: :soundbarrier:
+! McCree_icon.png				:mccree:
+! McCree_ult.png				:mccreeult: :deadeye:
+! Mei_icon.png				:mei:
+! Mei_ult.png				:meiult: :blizzard:
+! Mercy_icon.png				:mercy:
+! Mercy_ult.png				:mercyult: :resurrect:
+! Pharah_icon.png				:pharah:
+! Pharah_ult.png				:pharahult: :barrage:
+! Reaper_icon.png				:reaper:
+! Reaper_ult.png				:reaperult: :deathblossom:
+! Reinhardt_icon.png				:reinhardt:
+! Reinhardt_ult.png				:reinhardtult: :earthshatter:
+! Roadhog_icon.png				:roadhog:
+! Roadhog_ult.png				:roadhogult: :wholehog:
+! Soldier76_icon.png				:soldier76: :76:
+! Soldier76_ult.png				:soldier76ult: :76ult: :tacticalvisor:
+! Symmetra_icon.png				:symmetra:
+! Symmetra_ult.png				:symmetrault: :teleporter:
+! Torbjorn_icon.png				:torbjorn: :gjallaborn:
+! Torbjorn_ult.png				:torbjornult: :moltencore:
+! Tracer_icon.png				:tracer:
+! Tracer_ult.png				:tracerult: :pulsebomb:
+! Widowmaker_icon.png				:widowmaker:
+! Widowmaker_ult.png				:widowmakerult: :reconvisor:
+! Winston_icon.png				:winston:
+! Winston_ult.png				:winstonult: :primalrage: :nerdrage:
+! Zarya_icon.png				:zarya:
+! Zarya_ult.png				:zaryault: :gravitonsurge:
+! Zenyatta_icon.png				:zenyatta:
+! Zenyatta_ult.png				:zenyattault: :transcendence:
 ! spellcleave.png				:cleave:
 ! MBDTF1.png				:MBDTF:
 ! MBDTF2.png				:MBDTF2:
