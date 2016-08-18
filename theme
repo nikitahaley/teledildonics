@@ -1,0 +1,1820 @@
+Name=Teledildonics Emote Pack
+Description=Updated 2016-02-04
+Icon=amazSis.png
+Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan Severasse, Adium definitions created with TrevInc converter script)
+
+[default]
+
+! DVA_100.png				:dva100:
+! Hanzo_two.png				:twodragons: :geehanzo:
+! McCree_noon.jpg				:highnoon: :noon:
+! Pharah_nice.png				:playnice:
+! Reaper_sense.png				:reapersense:
+! Mercy_smug.jpg				:mercysmug:
+! Widowmaker_smug.jpg				:widowsmug:
+! Genji_shiggy.jpg				:genjishiggy: :genjiishygddt: :genjicostanza:
+! DVA_stare.png				:dvastare:
+! Tracer_laffo.png				:tracerlaffo:
+! Soldier76_feels.png				:76feel: :76feels: :76wojak:
+! Bastion_icon.png				:bastion:
+! Bastion_ult.png				:bastionult: :tank:
+! DVA_icon.png				:dva:
+! DVA_ult.png				:dvault: :callmecha:
+! Genji_icon.png				:genji:
+! Genji_ult.png				:genjiult: :dragonblade:
+! Hanzo_icon.png				:hanzo:
+! Hanzo_ult.png				:hanzoult: :dragonstrike:
+! Junkrat_icon.png				:junkrat:
+! Junkrat_ult.png				:junkratult: :riptire:
+! Lucio_icon.png				:lucio:
+! Lucio_ult.png				:lucioult: :soundbarrier:
+! McCree_icon.png				:mccree:
+! McCree_ult.png				:mccreeult: :deadeye:
+! Mei_icon.png				:mei:
+! Mei_ult.png				:meiult: :blizzard:
+! Mercy_icon.png				:mercy:
+! Mercy_ult.png				:mercyult: :resurrect:
+! Pharah_icon.png				:pharah:
+! Pharah_ult.png				:pharahult: :barrage:
+! Reaper_icon.png				:reaper:
+! Reaper_ult.png				:reaperult: :deathblossom:
+! Reinhardt_icon.png				:reinhardt:
+! Reinhardt_ult.png				:reinhardtult: :earthshatter:
+! Roadhog_icon.png				:roadhog:
+! Roadhog_ult.png				:roadhogult: :wholehog:
+! Soldier76_icon.png				:soldier76: :76:
+! Soldier76_ult.png				:soldier76ult: :76ult: :tacticalvisor:
+! Symmetra_icon.png				:symmetra:
+! Symmetra_ult.png				:symmetrault: :teleporter:
+! Torbjorn_icon.png				:torbjorn: :gjallaborn:
+! Torbjorn_ult.png				:torbjornult: :moltencore:
+! Tracer_icon.png				:tracer:
+! Tracer_ult.png				:tracerult: :pulsebomb:
+! Widowmaker_icon.png				:widowmaker:
+! Widowmaker_ult.png				:widowmakerult: :reconvisor:
+! Winston_icon.png				:winston:
+! Winston_ult.png				:winstonult: :primalrage: :nerdrage:
+! Zarya_icon.png				:zarya:
+! Zarya_ult.png				:zaryault: :gravitonsurge:
+! Zenyatta_icon.png				:zenyatta:
+! Zenyatta_ult.png				:zenyattault: :transcendence:
+! spellcleave.png				:cleave:
+! MBDTF1.png				:MBDTF:
+! MBDTF2.png				:MBDTF2:
+! tidired.png				:tidi: :tidired:
+! tidiyellow.png				:halftidi: :tidiyellow:
+! myst.png				:myst:
+! mlg.png				:mlg:
+! icefrog.png				:icefrog:
+! flash.png				:flash:
+! saints.png				:saints:
+! muatra.png				:muatra:
+! dendi.png				:dendi:
+! gears.png				:gears: :sotha:
+! cluwne.png				:clown:
+! cleric.png				:cleric:
+! cabal.jpg				:cabal:
+! bubbles.png				:bubbles:
+! Lahey.png				:lahey:
+! dtlulu.png				:dtlulu:
+! drake.png				:drake:
+! fuccboi.png				:fuccboi:
+! kanye.png				:kanye:
+! kanye2.png				:kanye2:
+! kanye3.png				:kanye3:
+! liljon.png				:liljon:
+! toxicity.png				:toxicity:
+! theoddone.png				:theoddone:
+! thed.jpg				:thed: :descartes:
+! thedl.jpg				:thedl: :thedlarge: :descarteslarge:
+! supreme.png				:supreme:
+! sadboys.png				:sadboys:
+! rumbly.png				:rumbly:
+! propane.png				:propane:
+! misandry.png				:misandry:
+! jesuschrist.jpg				:jesuschrist:
+! hsggvi.png				:hsggvi:
+! helraku.png				:helraku:
+! females.png				:females:
+! assman.png				:assman:
+! arousing.png				:arousing:
+! aphromoo.png				:aphromoo:
+! chaox.png				:chaox:
+! crumbzz.png				:crumbzz:
+! doublelift.png				:doublelift:
+! eastwood.png				:eastwood:
+! hsgg.png				:hotshotgg:
+! ironstylus.png				:ironstylus:
+! phreak.png				:phreak:
+! singsing.png				:singsing:
+! therainman.png				:therainman:
+! wildturtle.png				:wildturtle:
+! emu.png				:emu:
+! goat.png				:goat:
+! gonn.png				:gonn:
+! minerva.png				:minerva:
+! ran.png				:ran:
+! tira.png				:tira:
+! mjoll.png				:mjoll:
+! groat.png				:groat:
+! tamat.png				:tamat:
+! guinsoo.png				:guinsoo:
+! reginald.png				:reginald:
+! rivington.png				:rivington:
+! wukongface.png				:wukongface:
+! belt.png				:belts: :belt:
+! deep.png				:deepdicks:
+! sona.png				:sonastare:
+! jayceface2.png				:jaycestare:
+! aniviacool.png				:acool:
+! froggen.png				:froggen:
+! zeds.png				:shadowman:
+! 200.png				:200:
+! challenged.jpg				:challenged:
+! gravesface.jpg				:gravesface:
+! invincible.png				:invincible:
+! jayceface.png				:jayceface: :getoutofmylane:
+! palpatine.jpg				:palpatine: :unlimitedpower:
+! valor.jpg				:valor:
+! zedmain.png				:zedmain:
+! anime.gif				:real:
+! bait.jpg				:bait:
+! bruh.jpg				:bruh:
+! chim.png				:chim:
+! denton.png				:denton:
+! disenchant.jpg				:disenchant:
+! expanding.png				:expanding:
+! fox.jpg				:fox:
+! fuckmagic.png				:magicsucks:
+! imaqtpie.png				:imaqtpie:
+! jensen.png				:jensen:
+! laserdrill.png				:kyle: :laserdrill:
+! link.png				:link:
+! lulu.png				:luluface:
+! magicrules.png				:magicrules:
+! morello.png				:morello:
+! rengar.png				:rengarcat:
+! ridley.png				:ridley:
+! rivenbed.png				:rivenbed: :swide:
+! rself.jpg				:holyfuck:
+! rylai.png				:rylai:
+! samusconsider.png				:consider:
+! samuswhy.jpg				:samuswhy:
+! shieldbearer.png				:shieldbearer:
+! smite.gif				:smite:
+! topsaint.png				:topsaint:
+! tripletap.png				:tripletap:
+! vivec.png				:vehk:
+! wizards.png				:wizards:
+! dog911.gif			:dog911:
+! dogc00l.gif    :dogc00l:
+! dogsiren.gif			:dogsiren:
+! dogstonk.gif			:dogstonk:
+! dukedog.png			:dukedog:
+! dankmemes.jpg				:dankmemes:
+! a.png					:kbstats: :a: :dyson: :dys0n: :Dys0n: :Dyson:
+! autismspeaks.png    :autism: :gevlon:
+! ayylmao.gif :ayylmao:
+! booda.gif    :booda:
+! brah.png	:brah:
+! brave.gif		:brave:
+! cleanhands.png    :cleanhands: :handsareclean:
+! dc2.png    :dc2:
+! dbwalk.gif	:dbwalk:
+! daftwithit.gif    :daftwithit:
+! daft.gif    :daft:
+! downvote.gif	:downvote:
+! drama.jpg	:drama:
+! euphoric.gif    :euphoric:
+! frogmontolio.gif		:frogmontolio:
+! frogmontolio2.gif		:frogmontolio2:
+! montoliosiren.gif		:montoliosiren:
+! montoliosiren2.gif	:montoliosiren2:
+! mittanisar.gif		:mittanisar:
+! montolio.png			:montolio:
+! frogh8.gif			:frogh8:
+! diplomacy.gif			:diplomacy:
+! order66.png	:order66:
+! pl.png	:pl:
+! shadoo.png	:shadoo:
+! supersmith.png    :supersmith:
+! smithbrit.gif    :smithbrit:
+! sunicide.gif			:sunicide:
+! sunsmith.png			:sunsmith: :smithsun:
+! zydrine.gif    :zydrine: :admirals:
+! wordsmith.gif			:wordsmith:
+! wordsmith2.gif		:wordsmith2:
+! rejectbutton.gif		:rejectbutton:
+! popcorn.gif	:popcorn:
+! parrotparty.gif    :parrotparty: :pp:
+! opsuccess.jpg    :opsuccess:
+! loadsa.gif    :loadsa: :loads: :moudy:
+! frogout4.gif	:frogout4:
+! freerealestate.gif			:freerealestate:
+! dickbutt.gif	:dickbutt:
+! upvote.gif	:upvote:
+! frogbooda.gif    :frogbooda:
+! disenchant.jpg				:disenchant:
+! shieldbearer.png				:shieldbearer:
+! wildmagic.png				:esports: :wildmagic:
+! patron.png				:patron: :getinhere: :everyone:
+! turn7.gif				:turn7: :turnseven: :drboom:
+! mindblast.jpg				:mindblast: :facepriest: :face:
+! killcommand.png				:killcommand: :skillcommand:
+! cleric.png				:cleric:
+! cabal.jpg				:cabal:
+! hswarrior.png				:warrior:
+! hswarlock.png				:warlock:
+! hsshaman.png				:shaman:
+! hsrogue.png				:rogue:
+! hspriest.png				:priest:
+! hspaladin.png				:paladin:
+! hsmage.png				:mage:
+! hshunter.png				:hunter:
+! hsdruid.png				:druid:
+! hsalleria.png				:alleria:
+! hsmedivh.png				:medivh:
+! hsmagni.png				:magni:
+! Aatrox_Square_0.png				:aatrox:
+! Ahri_Square_0.png				:ahri:
+! Akali_Square_0.png				:akali:
+! Alistar_Square_0.png				:alistar:
+! Amumu_Square_0.png				:amumu:
+! Anivia_Square_0.png				:anivia:
+! Annie_Square_0.png				:annie:
+! Ashe_Square_0.png				:ashe:
+! Azir_Square_0.png				:azir:
+! Bard_Square_0.png				:bard:
+! Blitzcrank_Square_0.png				:blitzcrank:
+! Brand_Square_0.png				:brand:
+! Braum_Square_0.png				:braum:
+! Caitlyn_Square_0.png				:caitlyn:
+! Cassiopeia_Square_0.png				:cassiopeia:
+! Chogath_Square_0.png				:chogath:
+! Corki_Square_0.png				:corki:
+! Darius_Square_0.png				:darius:
+! Dankmemes.jpg						:dankmemes:
+! Diana_Square_0.png				:diana:
+! Draven_Square_0.png				:draven:
+! DrMundo_Square_0.png				:mundo:
+! Ekko_Square_0.png				:ekko:
+! Elise_Square_0.png				:elise:
+! Evelynn_Square_0.png				:evelynn:
+! Ezreal_Square_0.png				:ezreal:
+! Fiddlesticks_Square_0.png				:fiddlesticks:
+! Fiora_Square_0.png				:fiora:
+! Fizz_square_0.png				:fizz:
+! Freerealestate.gif			:freerealestate:
+! Galio_Square_0.png				:galio:
+! Gangplank_Square_0.png				:gangplank:
+! Garen_Square_0.png				:garen:
+! Gnar_Square_0.png				:gnar:
+! Gragas_Square_0.png				:gragas:
+! Graves_Square_0.png				:graves:
+! Hecarim_Square_0.png				:hecarim:
+! Heimerdinger_Square_0.png				:heimerdinger:
+! Illaoi_Square_0.png				:illaoi:
+! Irelia_Square_0.png				:irelia:
+! Janna_Square_0.png				:janna:
+! JarvanIV_Square_0.png				:jarvan:
+! Jax_Square_0.png				:jax:
+! Jayce_Square_0.png				:jayce:
+! Jhin_Square_0.png				:jhin:
+! Jinx_Square_0.png				:jinx:
+! Kalista_Square_0.png				:kalista:
+! Karma_Square_0.png				:karma:
+! Karthus_Square_0.png				:karthus:
+! Kassadin_Square_0.png				:kassadin:
+! Katarina_Square_0.png				:katarina:
+! Kayle_Square_0.png				:kayle:
+! Kennen_Square_0.png				:kennen:
+! Khazix_Square_0.png				:khazix:
+! Kindred_Square_0.png				:kindred:
+! KogMaw_Square_0.png				:kogmaw:
+! Leblanc_Square_0.png				:leblanc:
+! LeeSin_Square_0.png				:leesin:
+! Leona_Square_0.png				:leona:
+! Lissandra_Square_0.png				:lissandra:
+! Lucian_Square_0.png				:lucian:
+! Lulu_Square_0.png				:lulu:
+! Lux_Square_0.png				:lux:
+! Malphite_Square_0.png				:malphite:
+! Malzahar_Square_0.png				:malzahar:
+! Maokai_Square_0.png				:maokai:
+! MasterYi_Square_0.png				:yi: :dilt:
+! MissFortune_Square_0.png				:missfortune:
+! MonkeyKing_Square_0.png				:wukong: :monkeyking:
+! Mordekaiser_Square_0.png				:mordekaiser:
+! Morgana_Square_0.png				:morgana:
+! Nami_Square_0.png				:nami:
+! Nasus_Square_0.png				:nasus:
+! Nautilus_Square_0.png				:nautilus:
+! Nidalee_Square_0.png				:nidalee:
+! Nocturne_Square_0.png				:nocturne:
+! Nunu_Square_0.png				:nunu:
+! Olaf_Square_0.png				:olaf:
+! Orianna_Square_0.png				:orianna:
+! Pantheon_Square_0.png				:pantheon:
+! Poppy_Square_0.png				:poppy:
+! Quinn_Square_0.png				:quinn:
+! Rammus_Square_0.png				:rammus:
+! RekSai_Square_0.png				:reksai:
+! Renekton_Square_0.png				:renekton:
+! Rengar_Square_0.png				:rengar:
+! Riven_Square_0.png				:riven:
+! Rumble_Square_0.png				:rumble:
+! Ryze_Square_0.png				:ryze:
+! Sejuani_Square_0.png				:sejuani:
+! Shaco_Square_0.png				:shaco:
+! Shen_Square_0.png				:shen:
+! Shyvana_Square_0.png				:shyvana:
+! Singed_Square_0.png				:singed:
+! Sion_Square_0.png				:sion:
+! Sivir_Square_0.png				:sivir:
+! Skarner_Square_0.png				:skarner:
+! Sona_Square_0.png				:sona:
+! Soraka_Square_0.png				:soraka:
+! Swain_Square_0.png				:swain:
+! Syndra_Square_0.png				:syndra:
+! TahmKench_Square_0.png				:tahmkench: :tahm:
+! Talon_Square_0.png				:talon:
+! Taric_Square_0.png				:taric:
+! Teemo_Square_0.png				:teemo:
+! Thresh_Square_0.png				:thresh:
+! Tristana_Square_0.png				:tristana:
+! Trundle_Square_0.png				:trundle:
+! Tryndamere_Square_0.png				:tryndamere:
+! TwistedFate_Square_0.png				:twistedfate:
+! Twitch_Square_0.png				:twitch:
+! Udyr_Square_0.png				:udyr:
+! Urgot_Square_0.png				:urgot:
+! Varus_Square_0.png				:varus:
+! Vayne_Square_0.png				:vayne:
+! Veigar_Square_0.png				:veigar:
+! VelKoz_Square_0.png				:velkoz:
+! Viktor_Square_0.png				:viktor:
+! Vi_Square_0.png				:vi:
+! Vladimir_Square_0.png				:vladimir:
+! Voidgate_Square_0.png				:zzrot:
+! Volibear_Square_0.png				:volibear:
+! Warwick_Square_0.png				:warwick:
+! Xerath_Square_0.png				:xerath:
+! XinZhao_Square_0.png				:xinzhao:
+! Yasuo_Square_0.png				:yasuo:
+! Yorick_Square_0.png				:yorick:
+! Zac_Square_0.png				:zac:
+! Zed_Square_0.png				:zed:
+! Ziggs_Square_0.png				:ziggs:
+! Zilean_Square_0.png				:zilean:
+! Zyra_Square_0.png				:zyra:
+! KappaWealth.png				:KappaWealth: :kappawealth:
+! KappaClaus.png				:KappaClaus: :kappaclaus:
+! buttUmad.png				:buttUmad: :buttumad:
+! buttNightblade.png				:buttNightblade: :buttnightblade:
+! buttIreliakappa.png				:buttIreliakappa: :buttireliakappa:
+! buttInfiltrator.png				:buttInfiltrator: :buttinfiltrator:
+! buttFrostblade.png				:buttFrostblade: :buttfrostblade:
+! buttBang.png				:buttBang: :buttbang:
+! amazW.png				:amazW: :amazw:
+! amazTop.png				:amazTop: :amaztop:
+! amazToast.png				:amazToast: :amaztoast:
+! amazSkittles.png				:amazSkittles: :amazskittles:
+! amazSis.png				:amazSis: :amazsis:
+! amazSign.png				:amazSign: :amazsign:
+! amazScam.png				:amazScam: :amazscam: :scamaz:
+! amazRag.png				:amazRag: :amazrag:
+! amazPunish.png				:amazPunish: :amazpunish:
+! amazPride.png				:amazPride: :amazpride:
+! amazPiggy.png				:amazPiggy: :amazpiggy:
+! amazMath.png				:amazMath: :amazmath:
+! amazLw.png				:amazLw: :amazlw:
+! amazLolo.png				:amazLolo: :amazlolo:
+! amazLied.png				:amazLied: :amazlied:
+! amazGasm.png				:amazGasm: :amazgasm:
+! amazFish.png				:amazFish: :amazfish:
+! amazDww.png				:amazDww: :amazdww:
+! amazD.png				:amazD: :amazd:
+! amazChatlied.png				:amazChatlied: :amazchatlied:
+! amazChamp.png				:amazChamp: :amazchamp:
+! amazC.png				:amazC: :amazc:
+! amazBully.png				:amazBully: :amazbully:
+! amaz40.png				:amaz40:
+! 4Head.png				:4Head: :4head:
+! ANELE.png				:ANELE: :anele:
+! ArgieB8.png				:ArgieB8: :argieb8:
+! ArsonNoSexy.png				:ArsonNoSexy: :arsonnosexy:
+! AsianGlow.png				:AsianGlow: :asianglow:
+! AtGL.png				:AtGL: :atgl:
+! AthenaPMS.png				:AthenaPMS: :athenapms:
+! atheneAngry.png				:atheneAngry: :atheneangry:
+! atheneBored.png				:atheneBored: :athenebored:
+! atheneChicken.png				:atheneChicken: :athenechicken:
+! atheneFacepalm.png				:atheneFacepalm: :athenefacepalm:
+! atheneGas.png				:atheneGas: :athenegas:
+! atheneGasm.png				:atheneGasm: :athenegasm:
+! atheneHappy.png				:atheneHappy: :athenehappy:
+! atheneRage.png				:atheneRage: :athenerage:
+! atheneRankOne.png				:atheneRankOne: :athenerankone:
+! atheneRiot.png				:atheneRiot: :atheneriot:
+! atheneTitanic.png				:atheneTitanic: :athenetitanic:
+! atheneW.png				:atheneW: :athenew:
+! AtIvy.png				:AtIvy: :ativy:
+! AtWW.png				:AtWW: :atww:
+! BabyRage.png				:BabyRage: :babyrage:
+! BatChest.png				:BatChest: :batchest:
+! BCWarrior.png				:BCWarrior: :bcwarrior:
+! BibleThump.png				:BibleThump: :biblethump:
+! BigBrother.png				:BigBrother: :bigbrother:
+! BionicBunion.png				:BionicBunion: :bionicbunion:
+! BlargNaut.png				:BlargNaut: :blargnaut:
+! bleedPurple.png				:bleedPurple: :bleedpurple:
+! BloodTrail.png				:BloodTrail: :bloodtrail:
+! forsen30.png				:forsen30:
+! forsenAbort.png				:forsenAbort: :forsenabort:
+! forsenBanned.png				:forsenBanned: :forsenbanned:
+! forsenBoys.png				:forsenBoys: :forsenboys:
+! forsenC.png				:forsenC: :forsenc:
+! forsenClown.png				:forsenClown: :forsenclown:
+! forsenDDK.png				:forsenDDK: :forsenddk:
+! forsenGasm.png				:forsenGasm: :forsengasm:
+! forsenKev.png				:forsenKev: :forsenkev:
+! forsenMoney.png				:forsenMoney: :forsenmoney:
+! forsenODO.png				:forsenODO: :forsenodo:
+! forsenOP.png				:forsenOP: :forsenop:
+! forsenPepe.png				:forsenPepe: :forsenpepe:
+! forsenPlugdj.png				:forsenPlugdj: :forsenplugdj:
+! forsenPuke.png				:forsenPuke: :forsenpuke:
+! forsenRP.png				:forsenRP: :forsenrp:
+! forsenSambool.png				:forsenSambool: :forsensambool:
+! forsenSheffy.png				:forsenSheffy: :forsensheffy:
+! forsenSnus.png				:forsenSnus: :forsensnus:
+! forsenSS.png				:forsenSS: :forsenss:
+! forsenSwag.png				:forsenSwag: :forsenswag:
+! forsenW.png				:forsenW: :forsenw:
+! forsenWOW.png				:forsenWOW: :forsenwow:
+! forsenX.png				:forsenX: :forsenx:
+! FreakinStinkin.png				:FreakinStinkin: :freakinstinkin:
+! FUNgineer.png				:FUNgineer: :fungineer:
+! FunRun.png				:FunRun: :funrun:
+! FuzzyOtterOO.png				:FuzzyOtterOO: :fuzzyotteroo:
+! GasJoker.png				:GasJoker: :gasjoker:
+! GingerPower.png				:GingerPower: :gingerpower:
+! GrammarKing.png				:GrammarKing: :grammarking:
+! HassanChop.png				:HassanChop: :hassanchop:
+! HeyGuys.png				:HeyGuys: :heyguys:
+! HotPokket.png				:HotPokket: :hotpokket:
+! HumbleLife.png				:HumbleLife: :humblelife:
+! ItsBoshyTime.png				:ItsBoshyTime: :itsboshytime:
+! Jebaited.png				:Jebaited: :jebaited:
+! JKanStyle.png				:JKanStyle: :jkanstyle:
+! JonCarnage.png				:JonCarnage: :joncarnage:
+! KAPOW.png				:KAPOW: :kapow:
+! Kappa.png				:Kappa: :kappa:
+! KappaPride.png				:KappaPride: :kappapride:
+! Keepo.png				:Keepo: :keepo:
+! KevinTurtle.png				:KevinTurtle: :kevinturtle:
+! Kippa.png				:Kippa: :kippa:
+! Kreygasm.png				:Kreygasm: :kreygasm:
+! krippBird.png				:krippBird: :krippbird:
+! krippCat.png				:krippCat: :krippcat:
+! krippChamp.png				:krippChamp: :krippchamp:
+! krippDoge.png				:krippDoge: :krippdoge:
+! krippDonger.png				:krippDonger: :krippdonger:
+! krippDonger2.png				:krippDonger2: :krippdonger2:
+! krippFist.png				:krippFist: :krippfist:
+! krippGive.png				:krippGive: :krippgive:
+! krippLucky.png				:krippLucky: :kripplucky:
+! krippOJ.png				:krippOJ: krippoj:
+! krippPride.png				:krippPride: :kripppride:
+! krippRage.png				:krippRage: :kripprage:
+! krippRiot.png				:krippRiot: :krippriot:
+! krippSleeper.png				:krippSleeper: :krippsleeper:
+! krippSuccy.png				:krippSuccy: :krippsuccy:
+! krippThump.png				:krippThump: :krippthump:
+! krippToon.png				:krippToon: :kripptoon:
+! krippW.png				:krippW: :krippw:
+! krippWall.png				:krippWall: :krippwall:
+! krippWTF.png				:krippWTF: :krippwtf:
+! KZskull.png				:KZskull: :kzskull:
+! Mau5.png				:Mau5: :mau5:
+! mcaT.png				:mcaT: :mcat:
+! MechaSupes.png				:MechaSupes: :mechasupes:
+! MrDestructoid.png				:MrDestructoid: :mrdestructoid:
+! MVGame.png				:MVGame: :mvgame:
+! NightBat.png				:NightBat: :nightbat:
+! NinjaTroll.png				:NinjaTroll: :ninjatroll:
+! NoATK.png				:NoATK: :noatk:
+! NoNoSpot.png				:NoNoSpot: :nonospot:
+! NotLikeThis.png				:NotLikeThis: :notlikethis:
+! OMGScoots.png				:OMGScoots: :omgscoots:
+! OneHand.png				:OneHand: :onehand:
+! OpieOP.png				:OpieOP: :opieop:
+! OptimizePrime.png				:OptimizePrime: :optimizeprime:
+! OSbeaver.png				:OSbeaver: :osbeaver:
+! OSbury.png				:OSbury: :osbury:
+! OSdeo.png				:OSdeo: :osdeo:
+! OSfrog.png				:OSfrog: :osfrog:
+! OSkomodo.png				:OSkomodo: :oskomodo:
+! OSrob.png				:OSrob: :osrob:
+! OSsloth.png				:OSsloth: :ossloth:
+! panicBasket.png				:panicBasket: :panicbasket:
+! PanicVis.png				:PanicVis: :panicvis:
+! PazPazowitz.png				:PazPazowitz: :pazpazowitz:
+! PeoplesChamp.png				:PeoplesChamp: :peopleschamp:
+! PermaSmug.png				:PermaSmug: :permasmug:
+! PicoMause.png				:PicoMause: :picomause:
+! PipeHype.png				:PipeHype: :pipehype:
+! PJHarley.png				:PJHarley: :pjharley:
+! PJSalt.png				:PJSalt: :pjsalt:
+! PMSTwin.png				:PMSTwin: :pmstwin:
+! PogChamp.png				:PogChamp: :pogchamp:
+! Poooound.png				:Poooound: :poooound:
+! PraiseIt.png				:PraiseIt: :praiseit:
+! PRChase.png				:PRChase: :prchase:
+! PunchTrees.png				:PunchTrees: :punchtrees:
+! PuppeyFace.png				:PuppeyFace: :puppeyface:
+! RaccAttack.png				:RaccAttack: :raccattack:
+! RalpherZ.png				:RalpherZ: :ralpherz:
+! RedCoat.png				:RedCoat: :redcoat:
+! ResidentSleeper.png				:ResidentSleeper: :residentsleeper:
+! riPepperonis.png				:riPepperonis: :ripepperonis:
+! RitzMitz.png				:RitzMitz: :ritzmitz:
+! RuleFive.png				:RuleFive: :rulefive:
+! ShadyLulu.png				:ShadyLulu: :shadylulu:
+! Shazam.png				:Shazam: :shazam:
+! shazamicon.png				:shazamicon:
+! ShazBotstix.png				:ShazBotstix: :shazbotstix:
+! ShibeZ.png				:ShibeZ: :shibez:
+! smiteGnar.png				:smiteGnar: :smitegnar:
+! smiteGood.png				:smiteGood: :smitegood:
+! smiteGot.png				:smiteGot: :smitegot:
+! smiteKench.png				:smiteKench: :smitekench:
+! smiteLaugh.png				:smiteLaugh: :smitelaugh:
+! smiteNunu.png				:smiteNunu: :smitenunu:
+! smiteOlaf.png				:smiteOlaf: :smiteolaf:
+! smiteOld.png				:smiteOld: :smiteold:
+! smiteRip.png				:smiteRip: :smiterip:
+! smiteTax.png				:smiteTax: :smitetax:
+! SMOrc.png				:SMOrc: :smorc:
+! SMSkull.png				:SMSkull: :smskull:
+! SoBayed.png				:SoBayed: :sobayed:
+! SoonerLater.png				:SoonerLater: :soonerlater:
+! SriHead.png				:SriHead: :srihead:
+! SSSsss.png				:SSSsss: :ssssss:
+! StoneLightning.png				:StoneLightning: :stonelightning:
+! StrawBeary.png				:StrawBeary: :strawbeary:
+! SuperVinlin.png				:SuperVinlin: :supervinlin:
+! SwiftRage.png				:SwiftRage: :swiftrage:
+! tbBaconBiscuit.png				:tbBaconBiscuit: :tbbaconbiscuit:
+! tbChickenBiscuit.png				:tbChickenBiscuit: :tbchickenbiscuit:
+! tbQuesarito.png				:tbQuesarito: :tbquesarito:
+! tbSausageBiscuit.png				:tbSausageBiscuit: :tbsausagebiscuit:
+! tbSpicy.png				:tbSpicy: :tbspicy:
+! tbSriracha.png				:tbSriracha: :tbsriracha:
+! TF2John.png				:TF2John: :tf2john:
+! TheKing.png				:TheKing: :theking:
+! TheRinger.png				:TheRinger: :theringer:
+! TheTarFu.png				:TheTarFu: :thetarfu:
+! TheThing.png				:TheThing: :thething:
+! ThunBeast.png				:ThunBeast: :thunbeast:
+! TinyFace.png				:TinyFace: :tinyface:
+! TooSpicy.png				:TooSpicy: :toospicy:
+! TriHard.png				:TriHard: :trihard:
+! TTours.png				:TTours: :ttours:
+! twitchRaid.png				:twitchRaid: :twitchraid:
+! UncleNox.png				:UncleNox: :unclenox:
+! UnSane.png				:UnSane: :unsane:
+! VaultBoy.png				:VaultBoy: :vaultboy:
+! Volcania.png				:Volcania: :volcania:
+! WholeWheat.png				:WholeWheat: :wholewheat:
+! WinWaker.png				:WinWaker: :winwaker:
+! WTRuck.png				:WTRuck: :wtruck:
+! WutFace.png				:WutFace: :wutface:
+! YouWHY.png				:YouWHY: :youwhy:
+! BORT.png				:BORT:
+! BrainSlug.png				:BrainSlug: :brainslug:
+! BrokeBack.png				:BrokeBack: :brokeback:
+! BuddhaBar.png				:BuddhaBar: :buddhabar:
+! CoolCat.png				:CoolCat: :coolcat:
+! CorgiDerp.png				:CorgiDerp: :corgiderp:
+! CougarHunt.png				:CougarHunt: :cougarhunt:
+! DAESuppy.png				:DAESuppy: :daesuppy:
+! DansGame.png				:DansGame: :dansgame:
+! DatHass.png				:DatHass: :dathass:
+! DatSheffy.png				:DatSheffy: :datsheffy:
+! DBstyle.png				:DBstyle: :dbstyle:
+! deExcite.png				:deExcite: :deexcite:
+! deIlluminati.png				:deIlluminati: :deilluminati:
+! DendiFace.png				:DendiFace: :dendiface:
+! DogFace.png				:DogFace: :dogface:
+! DOOMGuy.png				:DOOMGuy: :doomguy:
+! duDudu.png				:duDudu: :dududu: :sandstorm:
+! EagleEye.png				:EagleEye: :eagleeye:
+! EleGiggle.png				:EleGiggle: :elegiggle:
+! EvilFetus.png				:EvilFetus: :evilfetus:
+! FailFish.png				:FailFish: :failfish:
+! FPSMarksman.png				:FPSMarksman: :fpsmarksman:
+! FrankerZ.png				:FrankerZ: :frankerz:
+! UleetBackup.png				:UleetBackup: :uleetbackup:
+! 44O1K.gif :gettheehence:
+44O1K.gif :gth:
+! ashomad.png :ashomad:
+! aaatoot.gif :aaatoot:
+! bandblimp.gif :bandblimp:
+! boonie.png :booniebee:
+! confused_downs.gif :confuseddowns:
+confused_downs.gif :cd:
+! confuseddownsbert.png :confuseddownsbert:
+confuseddownsbert.png :cdb:
+! coolp.gif :coolp:
+! downglomp.gif :downsglomp:
+! downscide.gif :downscide:
+! dragon_wizard_snypa.gif :dragonwizardsnypa:
+dragon_wizard_snypa.gif :dws:
+! derrick.png :smitz:
+! efters.jpg :efters:
+! elusif.jpg :elusif:
+! emot-04lol.gif :04lol:
+! emot-24.gif :24:
+! emot-aaaggg.gif :aaaggg:
+! emot-afrikkka.png :afrikkka:
+! emot-amerikkka.gif :amerikkka:
+! emot-arse.gif :arse:
+! emot-ass.gif :ass:
+! emot-atari.gif :atari:
+! emot-australia.gif :australia:
+! emot-baby.png :baby:
+! emot-bach.gif :bach:
+! emot-beerbear.gif :beerbear:
+! emot-beer.gif :beer:
+! emot-bigp.gif :bigp:
+! emot-billnye.gif :billnye:
+! emot-blue.gif :blue:
+! emot-bluesclues.gif :bluesclues:
+! emot-bob.gif :bob:
+! emot-chicago.gif :chicago:
+! emot-chin101.gif :chin101:
+! emot-coke.gif :coke:
+! emot-cow.gif :cow:
+! emot-cowjump.gif :cowjump:
+! emot-damon.gif :damon:
+! emot-darwin.gif :darwin:
+! emot-deltasilon.gif :deltasilon:
+! emot-detbriscoe.gif :detbriscoe:
+! emot-dings.gif :dings:
+! emot-ditka.gif :ditka:
+! emot-djb.gif :djb:
+! emot-dog.gif :dog:
+! emot-dramabomb.gif :dramabomb:
+! emot-dusty101.gif :dusty101:
+! emot-emoticon2.gif :emoticon2:
+! emot-f.gif :f:
+! emot-faggothat.gif :faggothat:
+! emot-fappery.gif :fap:
+! emot-fatty.gif :fatty:
+! emot-femfap.gif :femfap:
+! emot-fff.gif :fff:
+! emot-finland.gif :finland:
+! emot-fish.gif :fish:
+! emot-foodrush.gif :foodrush:
+! emot-freedom.gif :freedom:
+! emot-freeman.gif :freeman:
+! emot-frog3.gif :frog3:
+! emot-frogc00lpipe.gif :frogc00lpipe:
+emot-frogc00lpipe.gif :fcp:
+! emot-frogcawg.gif :frogcawg:
+! emot-frogsnypa.gif :frogsnypa:
+emot-frogsnypa.gif :page1:
+! emot-frogpipe.gif :frogpipe:
+! emot-frogxd.gif :frogxd:
+! emot-fromer.gif :fromer:
+! emot-ftbrg2.gif :ftbrg2:
+! emot-fthapolice.gif :fthapolice:
+! emot-fuckfox.gif :fuckfox:
+! emot-getoutfag.gif :getoutfag:
+! emot-girl.gif :girl:
+! emot-girlbert.png :girlbert:
+! emot-gm.gif :gm:
+! emot-greece.gif :greece:
+! emot-grouchy.gif :grouchy:
+! emot-guns101.gif :guns101:
+! emot-ham.gif :ham:
+! emot-hellnaw.gif :hellnaw:
+! emot-hockey.gif :hockey:
+! emot-holland.gif :holland:
+! emot-horses.gif :horses:
+! emot-hulk.gif :hulk:
+! emot-hydrahump.gif :hydrahump:
+! emot-iceland.png :iceland:
+! emot-ireland.gif :ireland:
+! emot-isnoop.gif :isnoop:
+! japan.001.gif :japan:
+! emot-kewpuh.gif :kewpuh:
+! emot-kiddolbert.gif :kiddolbert:
+! emot-kittyjig.gif :kittyjig:
+! emot-krad.gif :kradold:
+! emot-liukang.gif :liukang:
+! emot-lobstar.gif :lobstar:
+! emot-lobster.gif :lobster:
+! emot-loleyes.gif :loleyes:
+! emot-lolslug.gif :lolslug:
+! emot-lowtakkks.gif :lowtakkks:
+! emot-ltash.gif :ltash:
+! emot-maul.gif :maul:
+! emot-mawg.gif :mawg:
+! emot-meatwad.gif :meatwad:
+! emot-megamonocle.gif :megamonocle:
+emot-megamonocle.gif :megamon:
+! emot-mensrights.gif :mensrights:
+emot-mensrights.gif :mra:
+! emot-metis.gif :metis:
+! emot-monocle2.gif :monocle2:
+emot-monocle2.gif :monocles:
+! emot-moof.gif :moof:
+! emot-moore.gif :moore:
+! emot-mrsaturn.gif :mrsaturn:
+! emot-mrwater.gif :mrwater:
+! emot-nc.gif :nc:
+! emot-newnhl.gif :newnhl:
+! emot-newtc00l.png :newtc00l:
+! emot-newtout.png :newtout:
+! emot-newtstare.png :newtstare:
+! emot-ninjafury.gif :ninjafury:
+! emot-nowai.gif :nowai:
+! emot-nz.gif :nz:
+! emot-oil.gif :oil:
+! emot-oldkrad.gif :oldkrad:
+! emot-omfgt.gif :omfgt:
+! emot-opsec.gif :opsec:
+! emot-osu.gif :osu:
+! emot-pantsshitting.gif :pantsshitting:
+! emot-peddit.gif :peddit:
+! emot-pedditstomp.gif :pedditstomp:
+! emot-ph.gif :ph:
+! emot-pink.gif :pink:
+! emot-pleaseno.gif :pleaseno:
+! emot-poke.gif :poke:
+! emot-pwnonk.gif :pwnonk:
+! emot-red.gif :red:
+! emot-rpgfish.gif :rpgfish:
+! emot-sadeng101.gif :sadeng101:
+! emot-santa.gif :santa:
+! emot-santabeard.gif :santabeard:
+! emot-scarfy.gif :scarfy:
+! emot-scax.gif :scax:
+! emot-scolbert.gif :scolbert:
+! emot-sdong.jpg :sdong:
+! emot-sg2.gif :sg2:
+! emot-sheep.gif :sheep:
+! emot-sherlock.gif :sherlock:
+! emot-shobonissar.gif :shobonissar:
+! emot-shyguy.gif :shyguy:
+! emot-sotw2.gif :sotw2:
+! emot-sss.gif :sss:
+! emot-stewart.gif :stewart:
+! emot-stink.png :stink:
+! emot-texas.gif :texas:
+! emot-thatpigimage.gif :thatpigimage:
+! emot-theohux.gif :theohux:
+! emot-toaster.gif :toaster:
+! emot-turbanbomb.gif :turbanbomb:
+! emot-ultramon.gif :ultramon:
+! emot-unwanted.gif :unwanted:
+! emot-vicman.gif :vicman:
+emot-vicman.gif :VICman:
+! emot-wank.gif :wank:
+! emot-wark.gif :wark:
+! emot-wblue.jpg :wblue:
+! woz.001.gif :woz:
+! emot-xbox.gif :xbox:
+! emot-xdbert.gif :xdbert:
+! emot-xie2.gif :xie2:
+! emot-yeswai.gif :yeswai:
+! emot-zima.gif :zima:
+! emot-zuter.gif :zuter:
+! frank.gif :frank:
+! frogbarf.gif :frogbarf:
+! frog_gonk_fire.gif :froggonkfire:
+frog_gonk_fire.gif :fgf:
+! frog_towers.gif :frog911:
+! gf-aaronstatic.gif :aaronstatic:
+! gf-archa2.gif :archa:
+gf-archa2.gif :archer:
+! gf-arghy.gif :arghy:
+! gf-ashobon.gif :ashobon:
+gf-ashobon.gif :antishobon:
+! gf-badger.gif :badger:
+! gf-bird.gif :bird:
+! gf-blueballs.gif :blueballs:
+gf-blueballs.gif :bb:
+! gf-brobuck.gif :brobuck:
+! gf-bunchies.png :bunchies:
+! gf-carrot.gif :carrot:
+! gf-catchphrase.gif :catchphrase:
+! gf-ccp2.gif :ccp:
+! gf-cefte.gif :cefte:
+! gf-cigare.gif :cigare:
+! gf-circlejerk.gif :circlejerk:
+gf-circlejerk.gif :cjerk:
+! gf-cloricus.gif :cloricus:
+gf-cloricus.gif :lollicus:
+gf-cloricus.gif :clor:
+! gf-clowncock.gif :manimani:
+! gf-cnn.gif :cnn:
+! gf-colbon.gif :shobert:
+gf-colbon.gif :shobonert:
+gf-colbon.gif :colbon:
+gf-colbon.gif :colboshon:
+! gf-commissilon.gif :commissilon:
+! gf-companioncube.gif :cube:
+gf-companioncube.gif :ccube:
+! gf-condi.gif :condi:
+! gf-conspiracy_effort.gif :conspiracy:
+gf-conspiracy_effort.gif :gfc:
+! gf-cripebert.gif :cripebert:
+gf-cripebert.gif :peekaboo:
+gf-cripebert.gif :cripesbert:
+gf-cripebert.gif :colipes:
+! cripes.001.gif :cripes:
+! gf-cripes.gif :cripe:
+! gf-cripsilon.gif :cripsilon:
+! gf-cuir.gif :cuir:
+! gf-dalaxi.gif :dalaxi:
+gf-dalaxi.gif :armchairwarrior:
+gf-dalaxi.gif :evilpookie:
+! gf-deadtear.gif :deadtear:
+gf-deadtear.gif :tumbleweed:
+! gf-derf.gif :derf:
+! gf-drgnvale.gif :drgnvale:
+gf-drgnvale.gif :fuckgoons:
+! gf-dungar.gif :rdungar:
+! gf-dungaryo.gif :dungar:
+! gf-eveo.gif :eve-o:
+gf-eveo.gif :eveo:
+! gf-flagglompage.gif :flagglompage:
+gf-flagglompage.gif :flagglomp:
+! gf-frank.gif :frankfrank:
+! gf-glompage.gif :deaken:
+gf-glompage.gif :deakin:
+gf-glompage.gif :glompage:
+! gf-goatse.gif :goatse:
+gf-goatse.gif :jasharinisamasssivefag:
+! gf-happycat.gif :happycat:
+! gf-hitlerbert.gif :hitlerbert:
+! gf-igne.gif :igne:
+gf-igne.gif :ignepatriot:
+gf-igne.gif :igneparrot:
+! gf-isitdeadyet.png :isitdeadyet:
+! gf-karttoon.gif :karttoon:
+! gf-komolov.gif :komolov:
+! gf-longdong.gif :longdong:
+! gf-maddowns.gif :maddowns:
+! gf-madprops.gif :madprops:
+gf-madprops.gif :mp:
+gf-madprops.gif :madprop:
+! gf-nazi.gif :nazi:
+! gf-nuvanito.gif :blackops:
+gf-nuvanito.gif :nuvanito:
+! gf-p.gif :p:
+gf-p.gif :P
+gf-p.gif :p
+! gf-page4.gif :page4:
+gf-page4.gif :p4snypa:
+gf-page4.gif :page4snypa:
+! gf-papassar.gif :papassar:
+! gf-patdance.gif :patdance:
+! emot-patriot.gif :patriot:
+! gf-patriot.gif :gfpatriot:
+! gf-psycripes.gif :criduck:
+gf-psycripes.gif :psyduckcripes:
+gf-psycripes.gif :cripesduck:
+! gf-ra.gif :ra:
+! gf-rapetraingizz.gif :rapetraingizz:
+gf-rapetraingizz.gif :rapetrainjizz:
+! gf-rasilon.gif :rasilon:
+! gf-redswarm.gif :redswarm:
+! gf-rem.gif :rem:
+! gf-rho.gif :rho:
+! gf-rollbert.gif :rollbert:
+gf-rollbert.gif :rbert:
+gf-rollbert.gif :rollb:
+! gf-sari.png :sari:
+! gf-sillyhats.gif :sillyhats:
+! gf-skink.gif :skink:
+! gf-slapfight.gif :slapfight:
+! gf-smash.gif :smash:
+! gf-smithwagon.gif :smithwagon:
+! gf-smugsay.gif :smugsay:
+! gf-sunshinebear.gif :carebear:
+! gf-tfff.gif :tfff:
+! gf-tindowns.gif :tindowns:
+gf-tindowns.gif :downsfoil:
+! gf-unicue.gif :uni:
+! gf-welp.gif :welp:
+! gf-yeep.gif :yeep:
+! gf-zergling.gif :zergling:
+! gonk101.gif :gonk101:
+! gonkclap.gif :gonkclap:
+! goonie.gif :goonie:
+! fucksneep.gif :fucksneep:
+! happysun.png :happysun:
+happysun.png :hsun:
+! hehguy.gif :hehguy:
+! hoggirl.gif :hoggirl:
+! holygirl.gif :holygirl:
+! horrorkid.gif :horrorkid:
+! icon_bear.gif :bear:
+icon_bear.gif :twistedbear:
+! icon_evil.gif :eviltwist:
+! emot-pirate.gif :pirate:
+! emot-twisted.gif :twisted:
+! icon_ugh.gif :ugh:
+! iss-blood.gif :specops:
+iss-blood.gif :iss:
+! kd-ratio2.gif :kdratio:
+kd-ratio2.gif :kd:
+! masaoclap.gif :masaoclap:
+! masaokis.gif :masaokis:
+! masaokiscamera.gif :masaocamera:
+! masaokis-drag-pot.gif :masaopot:
+! masaokis-katana.gif :masao-katana:
+masaokis-katana.gif :mk:
+masaokis-katana.gif :katana:
+! masaokisscience.gif :masaoscience:
+! masaokisscience2.gif :masaokisscience:
+! masaokis-shovel.gif :masaoshovel:
+! masaokis-spoon.gif :masaospoon:
+! masaokis-w-kool-aid.gif :masaok00l:
+! masao-sympathy.gif :masaohug:
+masao-sympathy.gif :masaokishug:
+! mashbutten.gif :butten:
+mashbutten.gif :mashbutton:
+mashbutten.gif :petition:
+! mcc00l.gif :mcc00l:
+mcc00l.gif :mccool:
+! molle.gif :molle:
+molle.gif :sirmolle:
+! ninjaturtles.gif :ninjaturtles:
+! nokpos.gif :nokpos:
+! playoffs.gif :playoffs:
+! pwnbike.gif :pwnbike:
+! psyfrog.gif :psyfrog:
+! rapetrain.png :rapetrain:
+! rembunchies.gif :rembunchies:
+rembunchies.gif :rbunchies:
+rembunchies.gif :rbunchie:
+! royofca.gif :royofca:
+royofca.gif :roy:
+royofca.gif :roypage2snypa:
+royofca.gif :royofcasnypa:
+! scax-spork(funkengine).gif :funkengine:
+scax-spork(funkengine).gif :scaxspork:
+! seaking.gif :seaking:
+! shy.gif :shy:
+! spyn-gbrush.gif :spyn:
+spyn-gbrush.gif :spyno:
+! superslick.gif :superslick:
+superslick.gif :supaslick:
+! star3.png :*:
+! imgtimeline.gif [img-timeline]
+! timeline2.png [img-timeline2]
+! tolon.gif :tolon:
+tolon.gif :saus:
+! tvp-shocked.gif :O
+! vampire.png :-[
+! wang-patriot.gif :wangpatriot:
+! wwii.png :wwii:
+! yay.gif :yay:
+! frown.gif :(
+! smile.gif :)
+! emot-3.gif :3:
+! emot-aaa.gif :aaa:
+emot-aaa.gif :o
+! emot-aaaaa.gif :aaaaa:
+! emot-airquote.gif :airquote:
+! emot-allears.gif :allears:
+! emot-angel.gif :angel:
+! emot-argh.gif :argh:
+! emot-arghfist.gif :arghfist:
+! emot-bang.gif :bang:
+! emot-banjo.gif :banjo:
+! emot-black101.gif :black101:
+! emot-blush.gif :blush:
+! emot-bravo2.gif :bravo2:
+! emot-butt.gif :butt:
+! emot-catholic.gif :catholic:
+! emot-cawg.gif :cawg:
+! emot-clownballoon.gif :cb:
+! cheeky.001.gif :cheeky:
+! emot-cheers.gif :cheers:
+! emot-chef.gif :chef:
+! choco.gif :choco:
+! emot-clint.gif :clint:
+! emot-coffee.gif :coffee:
+! emot-colbert.gif :colbert:
+! emot-comeback.gif :comeback:
+! emot-commissar.gif :commissar:
+! confused.gif :confused:
+! cool.gif :cool:
+! emot-cop.gif :cop:
+! emot-crossarms.gif :crossarms:
+! emot-crying.gif :cry:
+! emot-cthulhu.gif :cthulhu:
+! biggrin.gif :D
+! emot-dance.gif :dance:
+! emot-devil.gif :devil:
+! emot-doh.gif :doh:
+! emot-downs.gif :downs:
+! emot-downsgun.gif :downsgun:
+! emot-downswords.gif :downswords:
+! emot-drac.gif :drac:
+! emot-eek.gif :eek:
+! emot-emo.gif :emo:
+! emot-eng101.gif :eng101:
+! emot-eng99.gif :eng99:
+! emot-engleft.gif :engleft:
+! eyepop.001.gif :eyepop:
+! emot-f5.gif :f5:
+! emot-f5h.gif :f5h:
+! emot-fh.gif :fh:
+! emot-flame.gif :flame:
+! emot-gay.gif :gay:
+! emot-geno.gif :geno:
+! emot-ghost.gif :ghost:
+! emot-gibs.gif :gibs:
+! emot-glomp.gif :glomp:
+! emot-golfclap.gif :golfclap:
+! emot-gonk.gif :gonk:
+! emot-greatgift.gif :greatgift:
+! emot-haw.gif :haw:
+! emot-hawaaaafap.gif :hawaaaafap:
+! emot-hehe.gif :hehe:
+! heysexy.001.gif :heysexy:
+! emot-hf.gif :hf:
+! emot-hfive.gif :hfive:
+! emot-hist101.gif :hist101:
+! emot-holy.gif :holy:
+! emot-huh.gif :huh:
+! emot-hydrogen.gif :hydrogen:
+! emot-j.gif :j:
+! emot-jerkbag.gif :jerkbag:
+! emot-jewish.gif :jewish:
+! emot-jihad.gif :jihad:
+! emot-keke.gif :keke:
+! kimchi.gif :kimchi:
+! mad.gif :mad:
+! mmmhmm.gif :mmmhmm:
+! emot-monocle.gif :monocle:
+! emot-munch.gif :munch:
+! emot-neckbeard.gif :neckbeard:
+! emot-niggly.gif :niggly:
+! emot-ninja.gif :ninja:
+! emot-nyd.gif :nyd:
+! redface.gif :o:
+! emot-ohdear.png :ohdear:
+! ohdearsass.001.png :ohdearsass:
+! emot-pedo.gif :pedo:
+! emot-pervert.gif :pervert:
+! emot-pray.gif :pray:
+! emot-pseudo.gif :pseudo:
+! emot-raise.gif :raise:
+! emot-rant.gif :rant:
+! emot-reject.gif :reject:
+! emot-respek.gif :respek:
+! emot-rimshot.gif :rimshot:
+! emot-roboluv.gif :roboluv:
+! emot-rock.gif :rock:
+! emot-roflolmao.gif :roflolmao:
+! emot-rolleye.gif :rolleye:
+! rolleyes.gif :rolleyes:
+! emot-saddowns.gif :saddowns:
+! sassargh.001.gif :sassargh:
+! emot-science.gif :science:
+! emot-shlick.gif :shlick:
+! emot-shobon.gif :shobon:
+! shrug.001.gif :shrug:
+! emot-sigh.gif :sigh:
+! emot-silent.gif :silent:
+! emot-siren.gif :siren:
+! emot-smuggo.gif :smuggo:
+! emot-ssh.gif :ssh:
+! emot-ssj.gif :ssj:
+! emot-stare.gif :stare:
+! stonk.001.gif :stonk:
+! emot-suicide.gif :suicide:
+! emot-sun.gif :sun:
+! emot-supaburn.gif :supaburn:
+! emot-sweatdrop.gif :sweatdrop:
+! emot-swoon.gif :swoon:
+! emot-sympathy.gif :sympathy:
+! emot-tinfoil.gif :tinfoil:
+! emot-tiphat.gif :tipshat:
+! emot-tizzy.gif :tizzy:
+! emot-toot.gif :toot:
+! emot-v.gif :v:
+! emot-what.gif :what:
+! emot-whip.gif :whip:
+! emot-witch.gif :witch:
+! emot-woop.gif :woop:
+! emot-words.gif :words:
+! emot-worship.gif :worship:
+! emot-wth.gif :wth:
+! emot-xd.gif :xd:
+! emot-yarr.gif :yarr:
+! yotj.001.gif :yotj:
+! yum.001.gif :yum:
+! emot-zombie.gif :zombie:
+! emot-zoro.gif :zoro:
+! wink.gif ;)
+! livestock01-14-04-whore.gif ;-*
+! emot-10bux.gif :10bux:
+! emot-20bux.gif :20bux:
+! 69snypa.gif :69snypa:
+! emot-banme.gif :banme:
+! bunt.001.gif :bunt:
+! emot-byewhore.gif :byewhore:
+! emot-byob.gif :byob:
+! cadfan.001.gif :cadfan:
+! clegg.001.gif :clegg:
+! emot-cmon.gif :cmon:
+! emot-coupons.gif :coupons:
+! emot-damn.gif :damn:
+! darksouls.001.gif :darksouls:
+! emot-dealwithit.jpg :dealwithit:
+! dice.001.gif :dice:
+! emot-downsowned.gif :downsowned:
+! emot-effort.gif :effort:
+! feelsgood.001.png :feelsgood:
+! emot-filez.gif :filez:
+! emot-firstpost.gif :firstpost:
+! emot-frogout.gif :frogout:
+! emot-ftbrg.gif :ftbrg:
+! emot-gb2byob.gif :gb2byob:
+! emot-gb2fyad.gif :gb2fyad:
+! emot-gb2gbs.gif :gb2gbs:
+! emot-gb2hd2k.gif :gb2hd2k:
+! emot-getout.png :getout:
+! emot-godwin.gif :godwin:
+! emot-goof.gif :goof:
+! emot-hurr.gif :hurr:
+! emot-iceburn.gif :iceburn:
+! emot-iia.png :iia:
+! emot-iiam.gif :iiam:
+! emot-laffo.gif :laffo:
+! emot-lol.gif :lol:
+! emot-m10.gif :m10:
+! emot-master.gif :master:
+! milkie.001.gif :milkie:
+! mitt.001.gif :mitt:
+! emot-mordin.gif :mordin:
+! moreevil.001.gif :moreevil:
+! emot-ms.gif :ms:
+! emot-nattyburn.gif :nattyburn:
+! emot-nms.gif :nms:
+! emot-nws.gif :nws:
+! emot-owned.gif :owned:
+! pedophiles.001.gif :pedophiles:
+! emot-protarget.gif :protarget:
+! emot-04.gif :regd04:
+! emot-05.gif :regd05:
+! emot-06.gif :regd06:
+! emot-07.gif :regd07:
+! emot-regd08.gif :regd08:
+! emot-regd10.png :regd10:
+! rms.001.png :rms:
+! emot-sbahj.gif :sbahj:
+! emot-sicknasty.gif :sicknasty:
+! speculate.001.gif :speculate:
+! stoke.001.gif :stoke:
+! tetten.001.gif :tetten:
+! emot-their.gif :their:
+! emot-vd.gif :vd:
+! emot-w00t.gif :w00t:
+! emot-w2byob.gif :w2byob:
+! emot-waycool.gif :waycool:
+! emot-whoptc.gif :whoptc:
+! emot-wrongful.gif :wrongful:
+! emot-wtc.gif :wtc:
+! emot-wtf.gif :wtf:
+! emot-yohoho.gif :yohoho:
+! emot-anime.png :anime:
+! emot-aslol.gif :aslol:
+! emot-awesome.gif :awesome:
+! emot-backtowork.gif :backtowork:
+! emot-barf.gif :barf:
+! emot-boonie.gif :boonie:
+! emot-bravo.gif :bravo:
+! emot-buddy.gif :buddy:
+! emot-byodame.gif :byodame:
+! emot-byodood.gif :byodood:
+! emot-c00l.gif :c00l:
+! emot-c00lbert.gif :c00lbert:
+! emot-can.gif :can:
+! catstare.001.gif :catstare:
+! emot-chord.gif :chord:
+! emot-corsair.gif :corsair:
+! emot-crow.gif :crow:
+! emot-Dawkins102.gif :dawkins101:
+! emot-dogout.gif :dogout:
+! douche.001.gif :douche:
+! emot-downsbravo.gif :downsbravo:
+! emot-downsrim.gif :downsrim:
+! emot-faggot.gif :faggot:
+! fella.001.gif :fella:
+! emot-fiesta.gif :fiesta:
+! forkbomb.001.gif :forkbomb:
+! emot-frog.gif :frog:
+! emot-frogbon.gif :frogbon:
+! emot-frogc00l.gif :frogc00l:
+! emot-froggonk.gif :froggonk:
+! emot-frogsiren.gif :frogsiren:
+! emot-fuckoff.gif :fuckoff:
+! emot-fyadride.gif :fyadride:
+! emot-gbsmith.gif :gbsmith:
+! getin.001.gif :getin:
+! gifttank.001.gif :gifttank:
+! emot-goatse.gif :goatsecx:
+! emot-goonsay.gif :goonsay:
+! emot-hampants.gif :hampants:
+! emot-fuckyou.gif :iamafag:
+! emot-jiggled.gif :jiggled:
+! emot-mmmsmug.gif :mmmsmug:
+! mrapig.001.png :mrapig:
+! mump.001.png :mump:
+! emot-parrot.gif :parrot:
+! emot-psyboom.gif :psyboom:
+! emot-pwm.gif :pwm:
+! emot-pwn.gif :pwn:
+! emot-qq.gif :qq:
+! emot-qqsay.gif :qqsay:
+! emot-razz.gif :razz:
+! reddit.001.gif :reddit:
+! emot-regd09.gif :regd09:
+! regd11.001.gif :regd11:
+! emot-rodimus.gif :rodimus:
+! rubshandstogetherandgrinsevilly.gif :rubshands:
+! emot-shivdurf.gif :shivdurf:
+! emot-smith.gif :smith:
+! emot-smithfrog.png :smithfrog:
+! emot-smithicide.gif :smithicide:
+! smithmouth.001.gif :smithmouth:
+! emot-smug.gif :smug:
+! emot-smugbert.gif :smugbert:
+! emot-smugdog.gif :smugdog:
+! emot-smugissar.gif :smugissar:
+! emot-smugspike.png :smugspike:
+! staredog.001.gif :staredog:
+! emot-stoat.gif :stoat:
+! suspense.001.gif :suspense:
+! emot-sweep.gif :sweep:
+! thejoke.001.png :thejoke:
+! emot-thumbsup.gif :thumbsup:
+! emot-ughh.gif :ughh:
+! emot-unsmigghh.gif :unsmigghh:
+! emot-unsmith.gif :unsmith:
+! emot-wotwot.gif :wotwot:
+! emot-911.gif :911:
+! beck.001.gif :beck:
+! emot-belarus.gif :belarus:
+! emot-britain.gif :britain:
+! emot-ca.gif :ca:
+! emot-canada.gif :canada:
+! cheat.001.gif :cheat:
+! emot-china.gif :china:
+! emot-denmark.gif :denmark:
+! emot-ese.gif :ese:
+! emot-eurovision.png :eurovision:
+! emot-france.gif :france:
+! emot-fsmug.gif :fsmug:
+! geert.001.gif :geert:
+! helladid.001.gif :helladid:
+! emot-hitler.gif :hitler:
+! emot-italy.gif :italy:
+! emot-mexico.gif :mexico:
+! emot-norway.gif :norway:
+! poland.001.gif :poland:
+! quebec.001.gif :quebec:
+! emot-scotland.gif :scotland:
+! emot-spain.gif :spain:
+! emot-sweden.gif :sweden:
+! emot-tf.gif :tf:
+! emot-tito.gif :tito:
+! emot-ussr.gif :ussr:
+! emot-question.gif :?:
+emot-question.gif :question:
+! asoiaf.001.gif :asoiaf:
+! emot-axe.gif :axe:
+! emot-bsg.gif :bsg:
+! emot-bubblewoop.gif :bubblewoop:
+! emot-c.png :c:
+! emot-d.png :d:
+! emot-doink.gif :doink:
+! emot-doom.gif :doom:
+! emot-dota101.gif :dota101:
+! emot-flashfact.gif :flashfact:
+! emot-flashfap.gif :flashfap:
+! emot-foxnews.gif :foxnews:
+! emot-fry.gif :fry:
+! emot-golgo.gif :golgo:
+! emot-h.png :h:
+! emot-itjb.gif :itjb:
+! emot-jp.gif :jp:
+! emot-kakashi.gif :kakashi:
+! emot-kratos.gif :kratos:
+! emot-laugh.gif :laugh:
+! legion.001.gif :legion:
+! liara.001.gif :liara:
+! emot-lost.gif :lost:
+! emot-lovewcc.gif :lovewcc:
+! emot-lron.gif :lron:
+! emot-mario.gif :mario:
+! emot-megaman.gif :megaman:
+! emot-nixon.gif :nixon:
+! emot-nolan.gif :nolan:
+! nyan.001.gif :nyan:
+! emot-orks.gif :orks:
+! emot-pcgaming1.gif :pcgaming1:
+! emot-pcgaming.gif :pcgaming:
+! psydwarf.001.png :psydwarf:
+! emot-qfg.gif :qfg:
+! emot-quagmire.gif :quagmire:
+! emot-ramsay.gif :ramsay:
+! retrogames.001.gif :retrogames:
+! riot.001.gif :riot:
+! rolldice.001.gif :rolldice:
+! emot-s.png :s:
+! emot-sg.gif :sg:
+! emot-shepface.gif :shepface:
+! shepicide.001.gif :shepicide:
+! smaug.001.gif :smaug:
+! emot-spidey.gif :spidey:
+! emot-stat.gif :stat:
+! steam.001.gif :steam:
+! tali.001.gif :tali:
+! emot-todd.gif :todd:
+! emot-turianass.gif :turianass:
+! emot-tviv.gif :tviv:
+! tvtropes.001.gif :tvtropes:
+! emot-twentyfour.gif :twentyfour:
+! emot-wal.gif :wal:
+! emot-wcc.gif :wcc:
+! emot-wcw.gif :wcw:
+! emot-wookie.gif :wookie:
+! emot-yoshi.gif :yoshi:
+! zaeed.001.gif :zaeed:
+! emot-zoid.gif :zoid:
+! emot-11tea.gif :11tea:
+! emot-a2m.gif :a2m:
+! emot-am.gif :am:
+! emot-awesomelon.gif :awesomelon:
+! emot-bahgawd.gif :bahgawd:
+emot-bahgawd.gif :dbrb:
+! emot-bandwagon.gif :bandwagon:
+! emot-bick.gif :bick:
+! emot-bigtran.gif :bigtran:
+! biotruths.001.gif :biotruths:
+! emot-buttertroll.gif :btroll:
+! emot-burger.gif :burger:
+! emot-bustem.png :bustem:
+! emot-byobear.gif :byobear:
+! emot-c00lbutt.gif :c00lbutt:
+! emot-camera6.gif :camera6:
+! emot-ccb.gif :ccb:
+! cedric.001.png :cedric:
+! emot-chatter.gif :cenobite:
+! chiefsay.001.gif :chiefsay:
+! emot-chio.gif :chiyo:
+! emot-coal.gif :coal:
+! confuoot.001.gif :confuoot:
+! emot-coolfish.gif :coolfish:
+! emot-derp.gif :derp:
+! derptiel.001.gif :derptiel:
+! emot-dong.gif :dong:
+! emot-drum.gif :drum:
+! edi.001.gif :edi:
+! emot-emoticon.gif :emoticon:
+! evol-anim.gif :evil:
+! emot-fireman.gif :fireman:
+! emot-flaccid.gif :flaccid:
+! emot-flag.gif :flag:
+! emot-fork.png :fork:
+! emot-frogdowns.png :frogdowns:
+! emot-fsn.gif :fsn:
+! emot-furcry.gif :furcry:
+! fut.001.gif :fut:
+! emot-FYH.gif :FYH:
+! emot-george.gif :george:
+! emot-gizz.gif :gizz:
+! emot-goleft.gif :goleft:
+! emot-gonchar.gif :gonchar:
+! emot-google.gif :google:
+! emot-goon.gif :goon:
+! emot-goonboot.gif :goonboot:
+! emot-gooncamp.gif :gooncamp:
+! emot-gtfoycs.gif :gtfoycs:
+! emot-guitar.gif :guitar:
+! emot-gurf.gif :gurf:
+! emot-happyelf.gif :happyelf:
+! emot-havlat.gif :havlat:
+! emot-hb.gif :hb:
+! emot-hchatter.gif :hchatter:
+! emot-hellyeah.gif :hellyeah:
+! emot-holymoley.gif :holymoley:
+! emot-horse.gif :horse:
+! emot-hr.gif :hr:
+! emot-iiaca.gif :iiaca:
+! emot-ironicat.gif :ironicat:
+! emot-irony.gif :irony:
+! iw.001.gif :iw:
+! jeb.001.gif :jeb:
+! emot-joel.gif :joel:
+! emot-kamina.gif :kamina:
+! emot-kiddo.gif :kiddo:
+! emot-killdozer.gif :killdozer:
+! emot-krad2.gif :krad:
+! emot-kraken.gif :krakken:
+! emot-love.gif :love:
+! emot-madmax.gif :madmax:
+! manning.001.gif :manning:
+! emot-mason.gif :mason:
+! emot-milk.gif :milk:
+! emot-monar.gif :monar:
+! emot-moustache.gif :moustache:
+! emot-mufasa.png :mufasa:
+! negativeman-55f.png :negative:
+! emot-notfunny.gif :notfunny:
+! emot-nyoron.gif :nyoron:
+! emot-objection.gif :objection:
+! ovr.001.gif :ovr:
+! emot-page3.gif :page3:
+! emot-phone.gif :phone:
+! emot-phoneb.gif :phoneb:
+! emot-phoneline.gif :phoneline:
+! emot-pipe.gif :pipe:
+! emot-pluto.gif :pluto:
+! emot-pranke.gif :pranke:
+! emot-psyberger.gif :psyberger:
+! emot-psyduck.gif :psyduck:
+! emot-psylon.gif :psylon:
+! emot-psypop.gif :psypop:
+! emot-onlyoption.gif :pt:
+! emot-q.gif :q:
+! emot-qirex.gif :qirex:
+! ranbowdash.001.png :ranbowdash:
+! emot-redhammer.gif :redhammer:
+! emot-rice.gif :rice:
+! emot-riker.gif :riker:
+! emot-rudebox.gif :rudebox:
+! emot-russbus.gif :russbus:
+! emot-sax.gif :sax:
+! emot-sharpton.gif :sharpton:
+! emot-shibaz.png :shibaz:
+! emot-shopkeeper.gif :shopkeeper:
+! emot-signings.gif :signings:
+! emot-sissies.gif :sissies:
+! emot-slick.gif :slick:
+! emot-smugbird.gif :smugbird:
+! smugdroid.001.png :smugdroid:
+! emot-smugndar.gif :smugndar:
+! emot-smugteddie.gif :smugteddie:
+! emot-snoop.gif :snoop:
+! emot-solanadumb.png :solanadumb:
+! emot-sonia.gif :sonia:
+! emot-sotw.gif :sotw:
+! emot-spergin.png :spergin:
+! emot-spooky.gif :spooky:
+! emot-stalker.gif :stalker:
+! sugartits.001.png :sugartits:
+! emot-synpa.gif :synpa:
+! syoon.001.gif :syoon:
+! emot-taco.gif :taco:
+! tastykake.001.gif :tastykake:
+! emot-trashbear.gif :tbear:
+! emot-techno.gif :techno:
+! emot-thurman.gif :thurman:
+! emot-toughguy.gif :toughguy:
+! emot-toxx.gif :toxx:
+! emot-tubular.gif :tubular:
+! emot-uhaul.gif :uhaul:
+! emot-vick.gif :vick:
+! emot-viconia.gif :viconia:
+! emot-viggo.gif :viggo:
+! emot-whatup.gif :whatup:
+! emot-wink.gif :wink:
+! emot-wmwink.png :wmwink:
+! emot-wom.gif :wom:
+! emot-woof.gif :woof:
+! emot-wooper.gif :wooper:
+! emot-xie.gif :xie:
+! emot-zerg.gif :zerg:
+! emot-2bong.png :2bong:
+! emot-350.gif :350:
+! emot-weed.gif :420:
+! emot-catdrugs.gif :catdrugs:
+! chillpill.001.gif :chillpill:
+! emot-dominic.gif :dominic:
+! emot-drugnerd.gif :drugnerd:
+! emot-lsd.gif :lsd:
+! emot-obama.gif :obama:
+! okpos.001.gif :okpos:
+! emot-shroom.gif :shroom:
+! classic_fillmore.gif :tinsley:
+! emot-weed_.gif :weed:
+! emot-circlefap.gif :circlefap:
+! gaben.001.gif :gaben:
+! ins.001.gif :ins:
+! emot-mcnabb.png :mcnabb:
+! mensch.001.gif :mensch:
+! newt.001.png :newt:
+! notch.001.png :notch:
+! emot-ocelot.gif :ocelot:
+! patssay.001.gif :patssay:
+! emot-punto.gif :punto:
+! rms2.001.png :rms2:
+! russo.001.gif :russo:
+! thx.001.gif :thx:
+! zpatriot.001.gif :zpatriot:
+! frog-ssj3.gif :frogout3:
+! emot-grandma.gif :grandma:
+! emot-w-hat.gif :w-hat:
+! emot-yousuck.gif :yousuck:
+! emot-2001.png :30bux:
+! coffee.gif :morning:
+! newfap.001.gif :newfap:
+! newlol.001.gif :newlol:
+! cumpolice.gif :cumpolice:
+! frogon.001.png :frogon:
+! iiapa.001.png :iiapa:
+! justpost.001.gif :justpost:
+! devilchild.001.gif :devilchild:
+! synthy.gif :synthy:
+! anarchists.001.gif :anarchists:
+! ancap.001.gif :ancap:
+! godwinning.001.gif :godwinning:
+! vuvu.001.gif :vuvu:
+! xcom.001.gif :xcom:
+! ducksiren.001.gif :ducksiren:
+! troll.001.png :troll:
+! yosbutt.001.gif :yosbutt:
+! rainbow.gif :rory:
+! agesilaus.001.png :agesilaus:
+! anasta.001.jpg :anasta:
+! catbert.001.gif :catbert:
+! corrupt.001.gif :corrupt:
+! csgo.001.gif :csgo:
+! cult.001.jpg :cult:
+! effortless.001.gif :effortless:
+! freep.001.gif :freep:
+! gas.001.gif :gas:
+! gerty.001.png :gerty:
+! gogtears.001.gif :gogtears:
+! gop.001.gif :gop:
+! gowron.001.gif :gowron:
+! guinness.001.gif :guinness:
+! hirez.001.gif :hirez:
+! histdowns.001.gif :histdowns:
+! homebrew.001.gif :homebrew:
+! itwaspoo.001.gif :itwaspoo:
+! jebstare.001.png :jebstare:
+! krakentoot.001.gif :krakentoot:
+! lurkmore.001.gif :lurkmore:
+! magical.001.png :magical:
+! mil101.001.gif :mil101:
+! moments.001.gif :moments:
+! mrgw2.001.png :mrgw2:
+! mrgw.001.png :mrgw:
+! orks101.001.gif :orks101:
+! pgi.001.gif :pgi:
+! radcat.001.png :radcat:
+! rip.001.gif :rip:
+! shepspends.001.gif :shepspends:
+! shibewow.001.gif :shibewow:
+! shrek.001.gif :shrek:
+shrek.001.gif :dota:
+! smithcloud.001.gif :smithcloud:
+! smugjones.001.gif :smugjones:
+! smugwizard.001.png :smugwizard:
+! soe.001.gif :soe:
+! sparkles.001.gif :sparkles:
+! sterv.001.gif :sterv:
+! stonkhat.001.gif :stonkhat:
+! stonklol.001.gif :stonklol:
+! temporary.001.gif :temporary:
+! tfrxmas.001.gif :tfrxmas:
+! tootzzz.001.png :tootzzz:
+! torgue.001.gif :torgue:
+! valvebeta.001.png :valvebeta:
+! wiggle.001.gif :wiggle:
+! wow.001.gif :wow:
+! xbone.001.gif :xbone:
+! yayclod.001.png :yayclod:
+! yaycloud.001.gif :yaycloud:
+! emot-smithin.gif :smithin:
+! greenangel.gif :greenangel:
+! henget.gif :henget:
+! smugmrgw.png :smugmrgw:
+! bape.001.png :bape:
+! bsdsnype.001.gif :bsdsnype:
+! cabot.001.png :cabot:
+! classiclol.001.gif :classiclol:
+! fedora.001.png :fedora:
+! ghitler.001.png :ghitler:
+! hawksin.001.gif :hawksin:
+! livintrope.001.gif :livintrope:
+! lumpen.001.gif :lumpen:
+! marc.001.gif :marc:
+! nexus.001.png :nexus:
+! nignog.001.gif :nignog:
+! nitecrew.001.gif :nitecrew:
+! nsa.001.png :nsa:
+! omarcomin.001.gif :omarcomin:
+! ortiz.001.png :ortiz:
+! pilot.001.gif :pilot:
+! regd13.001.gif :regd13:
+! romo.001.png :romo:
+! sadwave.001.gif :sadwave:
+! toxogond.001.gif :toxogond:
+! wankah.001.gif :wankah:
+! wave.001.gif :wave:
+! AntTony.gif :anttony:
+! mrgreencube.png :greencube:
+! emote-louisgod2.gif :jerky:
+! koosgroup.gif :koos:
+! smilie-het.gif :megadeath:
+! melter.gif :melter:
+! mrwhite.gif :mrwhite:
+! vince.gif :vince:
+! whitewater.gif :whitewater:
+! chillout.001.gif :chillout:
+! dmca.001.gif :dmca:
+! sadfan.001.gif :sadfan:
+! sidvicious.001.png :sidvicious:
+! duckie.001.gif :duckie:
+! aatrek.001.gif :aatrek:
+! lesnick.001.gif :lesnick:
+! ubisoft.001.gif :ubisoft:
+! arnie.001.gif :arnie:
+! byob1.001.png :byob1:
+! rznv.001.gif :rznv:
+! agreed.001.png :agreed:
+! barry.001.png :barry:
+! happened.001.gif :happened:
+! thesperg.001.jpg :thesperg:
+! vomarine.001.gif :vomarine:
+! coffeepal.gif :coffeepal:
+! goku.gif :goku:
+! margeball.gif :margeball:
+! pusheen.gif :pusheen:
+! tutbutt.gif :tutbutt:
+! birddrugs.001.gif :birddrugs:
+! boehner.001.png :boehner:
+! brnsndcstl.001.png :brnsndcstl:
+! freakfuta.001.gif :freakfuta:
+! frolf.001.gif :frolf:
+! fuckthis.001.gif :fuckthis:
+! gb2nitecru.001.gif :gb2nitecru:
+! goatdrugs.001.gif :goatdrugs:
+! golf.001.gif :golf:
+! goshawk.001.jpg :goshawk:
+! iit.001.png :iit:
+! letsplay.001.png :letsplay:
+! nsacloud.001.gif :nsacloud:
+! peanut.001.gif :peanut:
+! puckout.001.gif :puckout:
+! ralp.001.gif :ralp:
+! stwoon.001.gif :stwoon:
+! vapes.001.gif :vapes:
+! wms.001.gif :wms:
+! psynuke.gif :psynuke:
+! psythulu.gif :psythulhu:
+! captainpopbyob.gif :captainpop:
+! emot-yikes.gif :yikes:
+! beerpal.gif :beerpal:
+! chloe.001.png :chloe:
+! evilbuddy.001.gif :evilbuddy:
+! fishmech.001.png :fishmech:
+! gitgud.001.gif :gitgud:
+! jackbud.001.gif :jackbud:
+! minnie.001.png :minnie:
+! nallears.001.gif :nallears:
+! niggasteve.001.gif :niggasteve:
+! nsallears.001.gif :nsallears:
+! nsamad.001.png :nsamad:
+! scott.001.gif :scott:
+! sherman.001.gif :sherman:
+! skeltal.001.gif :skeltal:
+! smilie.001.png :smilie:
+! smoobles.001.gif :smoobles:
+! spiderguy.001.gif :spiderguy:
+! channing.gif :channing:
+! taylorboom.gif :boom:
+! channingpop.gif :chanpop:
+! dogbutton.gif :dogbutton:
+! palmon.gif :palmon:
+! redass.gif :redass:
+! doclouis.gif :doclouis:
+! bungie.001.gif :bungie:
+! chome.001.gif :chome:
+! cocaine.001.gif :cocaine:
+! crafty.001.gif :crafty:
+! destiny.001.gif :destiny:
+! how.001.jpg :how:
+! jamez.001.gif :jamez:
+! jebcry.001.gif :jebcry:
+! jollywell.001.gif :jollywell:
+! nsavince.001.gif :nsavince:
+! pram.001.gif :pram:
+! protogas.001.gif :protogas:
+! refurb.001.gif :refurb:
+! secsmug.001.gif :secsmug:
+! suezo.001.gif :suezo:
+! suicide101.001.gif :suicide101:
+! swish.001.gif :swish:
+! ullerrm.001.png :ullerrm:
+! weedass.001.png :weedass:
+! germany.gif :germany:
+! prepop.gif :prepop:
+! robble.gif :robble:
+! sludgepal.gif :sludgepal:
+! atlus.001.gif :atlus:
+! bloodborne.001.gif :bloodborne:
+! buttfame.001.gif :buttfame:
+! capitalism.001.gif :capitalism:
+! coolspot.001.gif :coolspot:
+! cosmic2day.001.gif :cosmic2day:
+! dogge.001.jpg :dogge:
+! fail.001.gif :fail:
+! five.001.gif :five:
+! frogleave.001.gif :frogleave:
+! frontear.001.gif :frontear:
+! gaz.001.gif :gaz:
+! glompoff.001.gif :glompoff:
+! grin.001.gif :grin:
+! mediocre.001.gif :mediocre:
+! nomates.001.gif :nomates:
+! perfect.001.gif :perfect:
+! poolgirl.001.gif :poolgirl:
+! quig.001.gif :quig:
+! salt.001.gif :salt:
+! secondpost.001.png :secondpost:
+! smallbarf.001.jpg :smallbarf:
+! treemike.001.gif :treemike:
+! un.001.gif :un:
+! yeah.001.gif :yeah:
+! kingsley.gif :kingsley:
+! berned.001.gif :berned:
+! bernget.001.gif :bernget:
+! bernin.001.gif :bernin:
+! cheerdoge.001.png :cheerdoge:
+! co.001.gif :co:
+! crossange.001.gif :crossange:
+! fag.001.gif :fag:
+! flipoff.001.gif :flipoff:
+! help.001.png :help:
+! heritage.001.gif :heritage:
+! jerry.001.png :jerry:
+! knope.001.png :knope:
+! landy.001.png :landy:
+! nono.001.gif :nono:
+! razorback2.001.png :razorback2:
+! razorback.001.png :razorback:
+! shibe.001.png :shibe:
+! shillary.001.png :shillary:
+! shudder.001.gif :shudder:
+! sureboat.001.gif :sureboat:
+! gary.gif :gary:
+! yarg.gif :yarg:
+! dunkedon.001.gif :dunkedon:
+! flip.001.gif :flip:
+! itoilet.001.gif :itoilet:
+! myballs.001.gif :myballs:
+! newdanger.001.gif :newdanger:
+! nigger.001.png :nigger:
+! niggerr.001.png :niggerr:
+! nutshot.gif :nutshot:
+! petdog.001.gif :petdog:
+! razorfront.001.png :razorfront:
+! rowdytrout.001.gif :rowdytrout:
+! sad-peanut.gif :sadpeanut:
+! sever.001.gif :sever:
+! shittydog.001.gif :shittydog:
+! shittypop.001.gif :shittypop:
+! tem.001.gif :tem:
+! wrong.001.gif :wrong:
+! wtchris.001.png :wtchris:
+! zoomed.001.gif :zoomed:
+! si.001.gif :si:
+! therapy.001.gif :therapy:
+! squawk.001.gif :squawk:
+! ffg.001.gif :ffg:
+! hai.001.gif :hai:
+! same.001.gif :same:
+! iiniku.001.jpg :iiniku:
+! pgabz.001.gif :pgabz:
+! eyepoop.001.gif :eyepoop:
+! ok.001.gif :ok:
+! downsa.001.png :downsa:
+! bern101.001.gif :bern101:
+! niger2.png :niger:
+! deadmau5.001.gif :deadmau5:
+! emot-caro.gif :caro:
