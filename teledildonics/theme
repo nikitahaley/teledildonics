@@ -5,6 +5,36 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 
 [default]
 
+! forsenE.png				:forsenE: :forsene:
+! forsenFajita.png				:forsenFajita: :forsenfajita:
+! forsenGun.png				:forsenGun: :forsengun:
+! forsenIQ.png				:forsenIQ: :forseniq:
+! forsenKnife.png				:forsenKnife: :forsenknife:
+! forsenLewd.png				:forsenLewd: :forsenlewd:
+! forsenPuke2.png				:forsenPuke2: :forsenpuke2:
+! forsenSleeper.png				:forsenSleeper: :forsensleeper:
+! forsenTriggered.png				:forsenTriggered: :forsentriggered:
+! forsenWhip.png				:forsenWhip: :forsenwhip:
+! forsenE.png				:forsenE: :forsene:
+! KKona.png				:KKona: :kkona:
+! krippBaby.png				:krippBaby: :krippbaby:
+! krippFat.png				:krippFat: :krippfat:
+! krippFeelsMan.png				:krippFeelsMan: :krippfeelsman:
+! krippGasm.png				:krippGasm: :krippgasm:
+! krippMass.png				:krippMass: :krippmass:
+! krippO.png				:krippO: :krippo:
+! krippPopo.png				:krippPopo: :kripppopo:
+! purify.jpg				:purify:
+! garroshLUL.png				:garroshLUL: :garroshlul:
+! garroshLUL2.png				:garroshLUL2: :garroshlul2:
+! garroshstare.png				:garroshstare:
+! jigglypuff.jpg				:jigglypuff: :jiggly:
+! nofun.jpg				:nofun:
+! imgay.png				:imgay:
+! dismantle.jpg				:dismantle:
+! dreadlord.jpg				:dreadlord: :jaina2:
+! medivh.jpg				:medivh2: :onik: :karazhan:
+! garroshheart.png				:garroshheart: :corruption:
 ! DVA_100.png				:dva100:
 ! Hanzo_two.png				:twodragons: :geehanzo:
 ! McCree_noon.jpg				:highnoon: :noon:
@@ -223,15 +253,18 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 ! killcommand.png				:killcommand: :skillcommand:
 ! cleric.png				:cleric:
 ! cabal.jpg				:cabal:
-! hswarrior.png				:warrior:
-! hswarlock.png				:warlock:
-! hsshaman.png				:shaman:
-! hsrogue.png				:rogue:
-! hspriest.png				:priest:
-! hspaladin.png				:paladin:
-! hsmage.png				:mage:
-! hshunter.png				:hunter:
-! hsdruid.png				:druid:
+! hswarrior.png				:warrior: :garrosh:
+! hswarlock.png				:warlock: :guldan:
+! hsshaman.png				:shaman: :thrall:
+! hsrogue.png				:rogue: :valeera:
+! hspriest.png				:priest: :anduin:
+! hspaladin.png				:paladin: :uther:
+! hsmage.png				:mage: :jaina:
+! hshunter.png				:hunter: :rexar:
+! hsdruid.png				:druid: :malfurion:
+! hskhadgar.png				:khadgar:
+! hsliadrin.png				:liadrin:
+! hsmorgl.png				:morgl:
 ! hsalleria.png				:alleria:
 ! hsmedivh.png				:medivh:
 ! hsmagni.png				:magni:
@@ -1171,7 +1204,7 @@ emot-aaa.gif :o
 ! emot-ms.gif :ms:
 ! emot-nattyburn.gif :nattyburn:
 ! emot-nms.gif :nms:
-! emot-nws.gif :nws:
+! emot-nws.gif :nws: :nsfw:
 ! emot-owned.gif :owned:
 ! pedophiles.001.gif :pedophiles:
 ! emot-protarget.gif :protarget:
