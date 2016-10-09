@@ -1,10 +1,74 @@
 Name=Teledildonics Emote Pack
-Description=Updated 2016-02-04
+Description=Updated 2016-10-09
 Icon=amazSis.png
 Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan Severasse, Adium definitions created with TrevInc converter script)
 
 [default]
 
+! 28int.png				:succubus: :28int:
+! rook.png				:rook:
+! casil.png				:casil:
+! forsen1.png				:forsen1:
+! forsen2.png				:forsen2:
+! forsen3.png				:forsen3:
+! forsen4.png				:forsen4:
+! forsenDED.png				:forsenDED: :forsended:
+! forsenFeels.png				:forsenFeels: :forsenfeels:
+! forsenH.png				:forsenH: :forsenh:
+! forsenLUL.png				:forsenLUL: :forsenlul:
+! forsenOG.png				:forsenOG: :forsenog:
+! forsenPuke3.png				:forsenPuke3: :forsenpuke3:
+! rays3.png				:rays3:
+! raysB.png				:raysB: :raysb:
+! raysBeef.png				:raysBeef: :Raysbeef:
+! raysC.png				:raysC: :raysc:
+! raysClerk.png				:raysClerk: :raysclerk:
+! raysFace.png				:raysFace: :raysface:
+! raysFox.png				:raysFox: :raysfox:
+! raysH.png				:raysH: :raysh:
+! raysHelm.png				:raysHelm: :rayshelm:
+! raysHoah.png				:raysHoah: :rayshoah:
+! raysLove.png				:raysLove: :rayslove:
+! raysMom.png				:raysMom: :raysmom:
+! raysThump.png				:raysThump: :raysthump:
+! raysW.png				:raysW: :raysw:
+! raysZ.png				:raysZ: :raysz:
+! taggB.png				:taggB: :taggb:
+! taggCat.png				:taggCat: :taggcat:
+! taggChamp.png				:taggChamp: :taggchamp:
+! taggF.png				:taggF: :taggf:
+! taggFries.png				:taggFries: :taggfries:
+! taggGun.png				:taggGun: :tagggun:
+! taggH.png				:taggH: :taggh:
+! taggKat.png				:taggKat: :taggkat:
+! taggO.png				:taggO: :taggo:
+! taggRage.png				:taggRage: :taggrage:
+! taggT.png				:taggT: :taggt:
+! taggWoofer.png				:taggWoofer: :taggwoofer:
+! taggWot.png				:taggWot: :taggwot:
+! taggY.png				:taggY: :taggy:
+! BudBlast.png				:BudBlast: :budblast:
+! BudStar.png				:BudStar: :budstar:
+! cmonBruh.png				:cmonBruh: :cmonbruh:
+! DoritosChip.png				:DoritosChip: :doritoschip:
+! DxAbomb.png				:DxAbomb: :dxabomb:
+! DxCat.png				:DxCat: :dxcat:
+! GivePLZ.png				:GivePLZ: :giveplz:
+! GOWSkull.png				:GOWSkull: :gowskull:
+! PJSugar.png				:PJSugar: :pjsugar:
+! PrimeMe.png				:PrimeMe: :primeme:
+! TakeNRG.png				:TakeNRG: :takenrg:
+! VoHiYo.png				:VoHiYo: :vohiyo:
+! VoteNay.png				:VoteNay: :votenay:
+! VoteYea.png				:VoteYea: :voteyea:
+! venomsnake.png				:venomsnake: :venom:
+! garroshmaga.png				:garroshmaga: :horde:
+! jojo.png				:jojo:
+! tito.png				:badnews:
+! nakedsnake.png				:nakedsnake:
+! solidsnake.png				:solidsnake:
+! prettygood.png				:prettygood: :youropinionman:
+! fiddle.png				:fiddle:
 ! forsenE.png				:forsenE: :forsene:
 ! forsenFajita.png				:forsenFajita: :forsenfajita:
 ! forsenGun.png				:forsenGun: :forsengun:
@@ -35,6 +99,8 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 ! dreadlord.jpg				:dreadlord: :jaina2:
 ! medivh.jpg				:medivh2: :onik: :karazhan:
 ! garroshheart.png				:garroshheart: :corruption:
+! mcfree.png				:mcfree:
+! anacat.png				:anacat:
 ! DVA_100.png				:dva100:
 ! Hanzo_two.png				:twodragons: :geehanzo:
 ! McCree_noon.jpg				:highnoon: :noon:
@@ -46,6 +112,8 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 ! DVA_stare.png				:dvastare:
 ! Tracer_laffo.png				:tracerlaffo:
 ! Soldier76_feels.png				:76feel: :76feels: :76wojak:
+! Ana_icon.png				:ana:
+! Ana_ult.png				:anault: :nanoboost:
 ! Bastion_icon.png				:bastion:
 ! Bastion_ult.png				:bastionult: :tank:
 ! DVA_icon.png				:dva:
