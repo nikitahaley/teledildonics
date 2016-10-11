@@ -1,10 +1,107 @@
 Name=Teledildonics Emote Pack
-Description=Updated 2016-02-04
+Description=Updated 2016-10-09
 Icon=amazSis.png
 Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan Severasse, Adium definitions created with TrevInc converter script)
 
 [default]
 
+! revengeance.png				:rising: :revengeance:
+! 28int.png				:succubus: :28int:
+! rook.png				:rook:
+! casil.png				:casil:
+! forsen1.png				:forsen1:
+! forsen2.png				:forsen2:
+! forsen3.png				:forsen3:
+! forsen4.png				:forsen4:
+! forsenDED.png				:forsenDED: :forsended:
+! forsenFeels.png				:forsenFeels: :forsenfeels:
+! forsenH.png				:forsenH: :forsenh:
+! forsenLUL.png				:forsenLUL: :forsenlul:
+! forsenOG.png				:forsenOG: :forsenog:
+! forsenPuke3.png				:forsenPuke3: :forsenpuke3:
+! rays3.png				:rays3:
+! raysB.png				:raysB: :raysb:
+! raysBeef.png				:raysBeef: :Raysbeef:
+! raysC.png				:raysC: :raysc:
+! raysClerk.png				:raysClerk: :raysclerk:
+! raysFace.png				:raysFace: :raysface:
+! raysFox.png				:raysFox: :raysfox:
+! raysH.png				:raysH: :raysh:
+! raysHelm.png				:raysHelm: :rayshelm:
+! raysHoah.png				:raysHoah: :rayshoah:
+! raysLove.png				:raysLove: :rayslove:
+! raysMom.png				:raysMom: :raysmom:
+! raysThump.png				:raysThump: :raysthump:
+! raysW.png				:raysW: :raysw:
+! raysZ.png				:raysZ: :raysz:
+! taggB.png				:taggB: :taggb:
+! taggCat.png				:taggCat: :taggcat:
+! taggChamp.png				:taggChamp: :taggchamp:
+! taggF.png				:taggF: :taggf:
+! taggFries.png				:taggFries: :taggfries:
+! taggGun.png				:taggGun: :tagggun:
+! taggH.png				:taggH: :taggh:
+! taggKat.png				:taggKat: :taggkat:
+! taggO.png				:taggO: :taggo:
+! taggRage.png				:taggRage: :taggrage:
+! taggT.png				:taggT: :taggt:
+! taggWoofer.png				:taggWoofer: :taggwoofer:
+! taggWot.png				:taggWot: :taggwot:
+! taggY.png				:taggY: :taggy:
+! BudBlast.png				:BudBlast: :budblast:
+! BudStar.png				:BudStar: :budstar:
+! cmonBruh.png				:cmonBruh: :cmonbruh:
+! DoritosChip.png				:DoritosChip: :doritoschip:
+! DxAbomb.png				:DxAbomb: :dxabomb:
+! DxCat.png				:DxCat: :dxcat:
+! GivePLZ.png				:GivePLZ: :giveplz:
+! GOWSkull.png				:GOWSkull: :gowskull:
+! PJSugar.png				:PJSugar: :pjsugar:
+! PrimeMe.png				:PrimeMe: :primeme:
+! TakeNRG.png				:TakeNRG: :takenrg:
+! VoHiYo.png				:VoHiYo: :vohiyo:
+! VoteNay.png				:VoteNay: :votenay:
+! VoteYea.png				:VoteYea: :voteyea:
+! venomsnake.png				:venomsnake: :venom:
+! garroshmaga.png				:garroshmaga: :horde:
+! jojo.png				:jojo:
+! tito.png				:badnews:
+! nakedsnake.png				:nakedsnake:
+! solidsnake.png				:solidsnake:
+! prettygood.png				:prettygood: :youropinionman:
+! fiddle.png				:fiddle:
+! forsenE.png				:forsenE: :forsene:
+! forsenFajita.png				:forsenFajita: :forsenfajita:
+! forsenGun.png				:forsenGun: :forsengun:
+! forsenIQ.png				:forsenIQ: :forseniq:
+! forsenKnife.png				:forsenKnife: :forsenknife:
+! forsenLewd.png				:forsenLewd: :forsenlewd:
+! forsenPuke2.png				:forsenPuke2: :forsenpuke2:
+! forsenSleeper.png				:forsenSleeper: :forsensleeper:
+! forsenTriggered.png				:forsenTriggered: :forsentriggered:
+! forsenWhip.png				:forsenWhip: :forsenwhip:
+! forsenE.png				:forsenE: :forsene:
+! KKona.png				:KKona: :kkona:
+! krippBaby.png				:krippBaby: :krippbaby:
+! krippFat.png				:krippFat: :krippfat:
+! krippFeelsMan.png				:krippFeelsMan: :krippfeelsman:
+! krippGasm.png				:krippGasm: :krippgasm:
+! krippMass.png				:krippMass: :krippmass:
+! krippO.png				:krippO: :krippo:
+! krippPopo.png				:krippPopo: :kripppopo:
+! purify.jpg				:purify:
+! garroshLUL.png				:garroshLUL: :garroshlul:
+! garroshLUL2.png				:garroshLUL2: :garroshlul2:
+! garroshstare.png				:garroshstare:
+! jigglypuff.jpg				:jigglypuff: :jiggly:
+! nofun.jpg				:nofun:
+! imgay.png				:imgay:
+! dismantle.jpg				:dismantle:
+! dreadlord.jpg				:dreadlord: :jaina2:
+! medivh.jpg				:medivh2: :onik: :karazhan:
+! garroshheart.png				:garroshheart: :corruption:
+! mcfree.png				:mcfree:
+! anacat.png				:anacat:
 ! DVA_100.png				:dva100:
 ! Hanzo_two.png				:twodragons: :geehanzo:
 ! McCree_noon.jpg				:highnoon: :noon:
@@ -16,6 +113,8 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 ! DVA_stare.png				:dvastare:
 ! Tracer_laffo.png				:tracerlaffo:
 ! Soldier76_feels.png				:76feel: :76feels: :76wojak:
+! Ana_icon.png				:ana:
+! Ana_ult.png				:anault: :nanoboost:
 ! Bastion_icon.png				:bastion:
 ! Bastion_ult.png				:bastionult: :tank:
 ! DVA_icon.png				:dva:
@@ -223,15 +322,18 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 ! killcommand.png				:killcommand: :skillcommand:
 ! cleric.png				:cleric:
 ! cabal.jpg				:cabal:
-! hswarrior.png				:warrior:
-! hswarlock.png				:warlock:
-! hsshaman.png				:shaman:
-! hsrogue.png				:rogue:
-! hspriest.png				:priest:
-! hspaladin.png				:paladin:
-! hsmage.png				:mage:
-! hshunter.png				:hunter:
-! hsdruid.png				:druid:
+! hswarrior.png				:warrior: :garrosh:
+! hswarlock.png				:warlock: :guldan:
+! hsshaman.png				:shaman: :thrall:
+! hsrogue.png				:rogue: :valeera:
+! hspriest.png				:priest: :anduin:
+! hspaladin.png				:paladin: :uther:
+! hsmage.png				:mage: :jaina:
+! hshunter.png				:hunter: :rexar:
+! hsdruid.png				:druid: :malfurion:
+! hskhadgar.png				:khadgar:
+! hsliadrin.png				:liadrin:
+! hsmorgl.png				:morgl:
 ! hsalleria.png				:alleria:
 ! hsmedivh.png				:medivh:
 ! hsmagni.png				:magni:
@@ -1171,7 +1273,7 @@ emot-aaa.gif :o
 ! emot-ms.gif :ms:
 ! emot-nattyburn.gif :nattyburn:
 ! emot-nms.gif :nms:
-! emot-nws.gif :nws:
+! emot-nws.gif :nws: :nsfw:
 ! emot-owned.gif :owned:
 ! pedophiles.001.gif :pedophiles:
 ! emot-protarget.gif :protarget:
