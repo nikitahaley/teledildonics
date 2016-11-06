@@ -5,6 +5,136 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 
 [default]
 
+! 477.png				:477: :dr4:
+! Sombra-portrait.png				:sombra:
+! Sombra_ult.png				:sombrault: :emp:
+! thinking_face.png				:thinking: :thinking_face:
+! aelia.png				:aelia:
+! dustoo.png				:dustoo:
+! jana.png				:jana:
+! june.png				:june:
+! kobold.png				:kobold:
+! maraala.png				:maraala:
+! maraaladog.png				:maraaladog:
+! razina.jpg				:razina:
+! richert.png				:richert: :kramer:
+! skeleton.png				:skeleton:
+! fowCry.png				:fowCry: :fowcry:
+! fowGar.png				:fowGar: :fowgar:
+! fowGasm.png				:fowGasm: :fowgasm:
+! fowGasp.png				:fowGasp: :fowgasp:
+! fowHD.png				:fowHD: :fowhd:
+! fowHi.png				:fowHi: :fowhi:
+! fowHype.png				:fowHype: :fowhype:
+! fowLOL.png				:fowLOL: :fowlol:
+! fowMeh.png				:fowMeh: :fowmeh:
+! fowMG.png				:fowMG: :fowmg:
+! fowN.png				:fowN: :fown:
+! fowRead.png				:fowRead: :fowread:
+! fowRIP.png				:fowRIP: :fowrip:
+! fowSB.png				:fowSB: :fowsb:
+! fowSD.png				:fowSD: :fowsd:
+! fowShy.png				:fowShy: :fowshy:
+! fowSus.png				:fowSus: :fowsus:
+! fowTilt.png				:fowTilt: :fowtilt:
+! fowYay.png				:fowYay: :fowyay:
+! fowYES.png				:fowYES: :fowyes:
+! seag1HP.png				:seag1HP: :seag1hp:
+! seagBox.png				:seagBox: :seagbox:
+! seagCaw.png				:seagCaw: :seagcaw:
+! seagDerp.png				:seagDerp: :seagderp:
+! seagFeels.png				:seagFeels: :seagfeels:
+! seagFeelsG.png				:seagFeelsG: :seagfeelsg:
+! seagGotem.png				:seagGotem: :seaggotem:
+! seagH.png				:seagH: :seagh:
+! seagHead.png				:seagHead: :seaghead:
+! seagLUL.png				:seagLUL: :seaglul:
+! seagMei.png				:seagMei: :seagmei:
+! seagPog.png				:seagPog: :seagpog:
+! seagR.png				:seagR: :seagr:
+! seagRail.png				:seagRail: :seagrail:
+! seagSG.png				:seagSG: :seagsg:
+! seagT.png				:seagT: :seagt:
+! seagTriggered.png				:seagTriggered: :seagtriggered:
+! seagW.png				:seagW: :seagw:
+! seagW1.png				:seagW1: :seagw1:
+! seagW2.png				:seagW2: :seagw2:
+! brnaFrog.png				:brnaFrog: :brnafrog:
+! brnaGasm.png				:brnaGasm: :brnagasm:
+! brnaHi.png				:brnaHi: :brnahi:
+! brnaLove.png				:brnaLove: :brnalove:
+! brnaLUL.png				:brnaLUL: :brnalul:
+! brnaRiven.png				:brnaRiven: :brnariven:
+! brnaThink.png				:brnaThink: :brnathink:
+! brnaWut.png				:brnaWut: :brnawut:
+! cirBaka.png				:cirBaka: :cirbaka:
+! cirBar.png				:cirBar: :cirbar:
+! cirBell.png				:cirBell: :cirbell:
+! cirBlech.png				:cirBlech: :cirblech:
+! cirCola.png				:circola: :cirCola:
+! cirFairy.png				:cirFairy: :cirfairy:
+! cirGasm.png				:cirGasm: :cirgasm:
+! cirGlod.png				:cirGlod: :cirglod:
+! cirGreed.png				:cirGreed: :cirgreed:
+! cirHappy.png				:cirHappy: :cirhappy:
+! cirHi.png				:cirHi: :cirhi:
+! cirHonk.png				:cirHonk: :cirhonk:
+! cirKiss.png				:cirKiss: :cirkiss:
+! cirLaugh.png				:cirLaugh: :cirlaugh:
+! cirLewd.png				:cirLewd: :cirlewd:
+! cirLove.png				:cirLove: :cirlove:
+! cirMiku.png				:cirMiku: :cirmiku:
+! cirMini.png				:cirMini: :cirmini:
+! cirNilla.png				:cirNilla: :cirnilla:
+! cirPalm.png				:cirPalm: :cirpalm:
+! cirPls.png				:cirPls: :cirpls:
+! cirPrise.png				:cirPrise: :cirprise:
+! cirRage.png				:cirRage: :cirrage:
+! cirSanta.png				:cirSanta: :cirsanta:
+! cirShades.png				:cirShades: :cirshades:
+! cirSleep.png				:cirSleep: :cirsleep:
+! cirSmug.png				:cirSmug: :cirsmug:
+! cirThree.png				:cirThree: :cirthree:
+! cirWink.png				:cirWink: :cirwink:
+! tri1.png				:tri1:
+! tri2.png				:tri2:
+! tri3.png				:tri3:
+! tri4.png				:tri4:
+! triBan.png				:triBan: :triban:
+! triF.png				:triF: :trif:
+! triFaded.png				:triFaded: :trifaded:
+! triGasm.png				:triGasm: :trigasm:
+! triGiggle.png				:triGiggle: :trigiggle:
+! triHarder.png				:triHarder: :triharder:
+! triKBW.png				:triKBW: :trikbw:
+! triI.png				:triI: :trii:
+! triLewd.png				:triLewd: :trilewd:
+! triLurk.png				:triLurk: :trilurk:
+! triMad.png				:triMad: :trimad:
+! triPantsu.png				:triPantsu: :tripantsu:
+! triPuke.png				:triPuke: :tripuke:
+! triS.png				:triS: :tris:
+! triSad.png				:triSad: :trisad:
+! triSugoi.png				:triSugoi: :trisugoi:
+! triT.png				:triT: :trit:
+! triThirst.png				:triThirst: :trithirst:
+! triUgh.png				:triUgh: :triugh:
+! triW.png				:triW: :triw:
+! triX.png				:triX: :trix:
+! kripp1.png				:kripp1:
+! kripp2.png				:kripp2:
+! kripp3.png				:kripp3:
+! kripp4.png				:kripp4:
+! krippAmbe.png				:krippAmbe: :krippambe:
+! forsenCpooky.png				:forsenCpooky: :forsencpooky:
+! forsenDiglett.png				:forsenDiglett: :forsendiglett:
+! forsenLooted.png				:forsenLooted: :forsenlooted:
+! forsenMonkey.png				:forsenMonkey: :forsenmonkey:
+! forsenO.png				:forsenO: :forseno:
+! forsenPuke4.png				:forsenPuke4: :forsenpuke4:
+! forsenSkip.png				:forsenSkip: :forsenskip:
+! forsenStein.png				:forsenStein: :forsenstein:
+! forsenWut.png				:forsenWut: :forsenwut:
 ! revengeance.png				:rising: :revengeance:
 ! 28int.png				:succubus: :28int:
 ! rook.png				:rook:
@@ -257,7 +387,7 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 ! rivenbed.png				:rivenbed: :swide:
 ! rself.jpg				:holyfuck:
 ! rylai.png				:rylai:
-! samusconsider.png				:consider:
+! samusconsider.png				:consider: :ctf:
 ! samuswhy.jpg				:samuswhy:
 ! shieldbearer.png				:shieldbearer:
 ! smite.gif				:smite:
