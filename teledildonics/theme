@@ -5,6 +5,18 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 
 [default]
 
+! firewingstare.png				:firewing:
+! firewingeyes.png			:firewingeyes:
+! jeffkaplan.jpg				:jeffkaplan:
+! manningface.jpg				:manning: :manningface:
+! schick.png		:colonelsanders: :sanders: :colonialsanders: :schick:
+! kirkbride.png				:kirkbride:
+! fargoth.png				:fargoth:
+! maiq.png				:maiq:
+! shicklore.png				:lore
+! rook2.png				:rook2:
+! rayna.png				:rayna:
+! toddhoward.png			:toddhoward: :todd:
 ! 477.png				:477: :dr4:
 ! Sombra-portrait.png				:sombra:
 ! Sombra_ult.png				:sombrault: :emp:
@@ -1583,7 +1595,6 @@ emot-question.gif :question:
 ! emot-stat.gif :stat:
 ! steam.001.gif :steam:
 ! tali.001.gif :tali:
-! emot-todd.gif :todd:
 ! emot-turianass.gif :turianass:
 ! emot-tviv.gif :tviv:
 ! tvtropes.001.gif :tvtropes:
@@ -1667,7 +1678,6 @@ emot-bahgawd.gif :dbrb:
 ! emot-kraken.gif :krakken:
 ! emot-love.gif :love:
 ! emot-madmax.gif :madmax:
-! manning.001.gif :manning:
 ! emot-mason.gif :mason:
 ! emot-milk.gif :milk:
 ! emot-monar.gif :monar:
