@@ -1,10 +1,125 @@
 Name=Teledildonics Emote Pack
-Description=Updated 2016-10-09
+Description=Updated 2017-01-19
 Icon=amazSis.png
 Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan Severasse, Adium definitions created with TrevInc converter script)
 
 [default]
 
+! hatred.png				:hatred: :channelhatred:
+! rape.gif				:rape:
+! 6headLUL.png				:6headLUL: :6headlul:
+! GIGALUL.png				:GIGALUL: :gigalul:
+! HYPERLUL.png				:HYPERLUL: :hyperlul:
+! LUL.png				:LUL: :lul:
+! MEGALUL.png				:MEGALUL: :megalul:
+! NEGALUL.png				:NEGALUL: :negalul:
+! OMEGALUL.png				:OMEGALUL: :omegalul:
+! PETALUL.png				:PETALUL: :petalul:
+! TERALUL.png				:TERALUL: :teralul:
+! ULTRALUL.png				:ULTRALUL: :ultralul:
+! ULULU.png				:ULULU: :ululu:
+! ZIGALUL.png				:ZIGALUL: :zigalul:
+! ZULUL.png				:ZULUL: :zulul:
+! ruwW.png				:ruwW: :ruww:
+! ruwLove.png				:ruwLove: :ruwlove:
+! ruwLewd.png				:ruwLewd: :ruwlewd:
+! ruwHAA.png				:ruwHAA: :ruwhaa:
+! ruwGASM.png				:ruwGASM: :ruwgasm:
+! ruwFeels.png				:ruwFeels: :ruwfeels:
+! ruwCREE.png				:ruwCREE: :ruwcree:
+! ruwBub.png				:ruwBub: :ruwbub:
+! triR.png				:triR: :trir:
+! triOUT.png				:triOUT: :triout:
+! triM.png				:triM: :trim:
+! triGET.png				:triGET: :triget:
+! triA.png				:triA: :tria:
+! raysT.png				:raysT: :rayst:
+! raysShy.png				:raysShy: :raysshy:
+! raysShrug.png				:raysShrug: :raysshrug:
+! raysShock.png				:raysShock: :raysshock:
+! raysA.png				:raysA: :raysa:
+! taggR.png				:taggR: :taggr:
+! taggPup.png				:taggPup: :taggpup:
+! moon21.png				:moon21:
+! moon22.png				:moon22:
+! moon23.png				:moon23:
+! moon24.png				:moon24:
+! moon2AMAZING.png				:moon2AMAZING: :moon2amazing:
+! moon2AWW.png				:moon2AWW: :moon2aww:
+! moon2BANNED.png				:moon2BANNED: :moon2banned:
+! moon2BOOP.png				:moon2BOOP: :moon2boop:
+! moon2CATEMOTE.png				:moon2CATEMOTE: :moon2catemote:
+! moon2CHOKE.png				:moon2CHOKE: :moon2choke:
+! moon2COFFEE.png				:moon2COFFEE: :moon2coffee:
+! moon2COOL.png				:moon2COOL: :moon2cool:
+! moon2CREEP.png				:moon2CREEP: :moon2creep:
+! moon2CUTE.png				:moon2CUTE: :moon2cute:
+! moon2DUMB.png				:moon2DUMB: :moon2dumb:
+! moon2FEELS.png				:moon2FEELS: :moon2feels:
+! moon2GASM.png				:moon2GASM: :moon2gasm:
+! moon2GOOD.png				:moon2GOOD: :moon2good:
+! moon2GOTTEM.png				:moon2GOTTEM: :moon2gottem:
+! moon2GUMS.png				:moon2GUMS: :moon2gums:
+! moon2HAHAA.png				:moon2HAHAA: :moon2hahaa:
+! moon2HEART.png				:moon2HEART: :moon2heart:
+! moon2HEY.png				:moon2HEY: :moon2hey:
+! moon2HNNG.png				:moon2HNNG: :moon2hnng:
+! moon2JAM.png				:moon2JAM: :moon2jam:
+! moon2KISSES.png				:moon2KISSES: :moon2kisses:
+! moon2LUL.png				:moon2LUL: :moon2lul:
+! moon2LULT.png				:moon2LULT: :moon2lult:
+! moon2MEI.png				:moon2MEI: :moon2mei:
+! moon2MLADY.png				:moon2MLADY: :moon2mlady:
+! moon2MLEM.png				:moon2MLEM: :moon2mlem:
+! moon2PLSNO.png				:moon2PLSNO: :moon2plsno:
+! moon2RAGE.png				:moon2RAGE: :moon2rage:
+! moon2RIP.png				:moon2RIP: :moon2rip:
+! moon2SHRUG.png				:moon2SHRUG: :moon2shrug:
+! moon2SLEEP.png				:moon2SLEEP: :moon2sleep:
+! moon2SMAG.png				:moon2SMAG: :moon2smag:
+! moon2SMUG.png				:moon2SMUG: :moon2smug:
+! moon2TEEHEE.png				:moon2TEEHEE: :moon2teehee:
+! moon2THUMP.png				:moon2THUMP: :moon2thump:
+! moon2TRIGGERED.png				:moon2TRIGGERED: :moon2triggered:
+! moon2VAPE.png				:moon2VAPE: :moon2vape:
+! moon2WHINE.png				:moon2WHINE: :moon2whine:
+! moon2WHY.png				:moon2WHY: :moon2why:
+! moon2WINKY.png				:moon2WINKY: :moon2winky:
+! moon2WOO.png				:moon2WOO: :moon2woo:
+! moon2WOOP.png				:moon2WOOP: :moon2woop:
+! moon2WOW.png				:moon2WOW: :moon2wow:
+! moon2WUT.png				:moon2WUT: :moon2wut:
+! moon2YE.png				:moon2YE: :moon2ye:
+! icuRekt.png				:icuRekt: :icurekt:
+! icuMad.png				:icuMad: :icumad:
+! icuHug.png				:icuHug: :icuhug:
+! icuGasm.png				:icuGasm: :icugasm:
+! icuCry.png				:icuCry: :icucry:
+! forsenSanta.png				:forsenSanta: :forsensanta:
+! forsenRope.png				:forsenRope: :forsenrope:
+! forsenR.png				:forsenR: :forsenr:
+! forsenHorsen.png				:forsenHorsen: :forsenhorsen:
+! forsenEmote2.png				:forsenEmote2: :forsenemote2:
+! forsenEmote.png				:forsenEmote: :forsenemote:
+! forsenElf.png				:forsenElf: :forsenelf:
+! forsenDeer.png				:forsenDeer: :forsendeer:
+! amazWeeb.png				:amazWeeb: :amazweeb:
+! amazSMOrc.png				:amazSMOrc: :amazsmorc:
+! amazSellout.png				:amazSellout: :amazsellout:
+! amazSalt.png				:amazSalt: :amazsalt:
+! amazOhBaby.png				:amazOhBaby: :amazohbaby:
+! amazGold.png				:amazGold: :amazgold:
+! amazFake.png				:amazFake: :amazfake:
+! amazDomo.png				:amazDomo: :amazdomo:
+! stankyTHINK.png				:stankyTHINK: :stankythink:
+! stankyMONEY.png				:stankyMONEY: :stankymoney:
+! stankyKAPPA.png				:stankyKAPPA: :stankykappa:
+! stankyJUKE.png				:stankyJUKE: :stankyjuke:
+! stankyHEYA.png				:stankyHEYA: :stankyheya:
+! stankyGASM.png				:stankyGASM: :stankygasm:
+! stankyBOOP.png				:stankyBOOSTIO: :stankyboostio:
+! stankyBETA.png				:stankyBETA: :stankybeta:
+! stankyALPHA.png				:stankyALPHA: :stankyalpha:
 ! firewingstare.png				:firewing:
 ! firewingeyes.png			:firewingeyes:
 ! jeffkaplan.jpg				:jeffkaplan:
@@ -375,7 +490,7 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 ! gravesface.jpg				:gravesface:
 ! invincible.png				:invincible:
 ! jayceface.png				:jayceface: :getoutofmylane:
-! palpatine.jpg				:palpatine: :unlimitedpower:
+! palpatine.jpg				:palpatine: :unlimitedpower: :thesenate:
 ! valor.jpg				:valor:
 ! zedmain.png				:zedmain:
 ! anime.gif				:real:
@@ -613,12 +728,12 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 ! Zyra_Square_0.png				:zyra:
 ! KappaWealth.png				:KappaWealth: :kappawealth:
 ! KappaClaus.png				:KappaClaus: :kappaclaus:
-! buttUmad.png				:buttUmad: :buttumad:
-! buttNightblade.png				:buttNightblade: :buttnightblade:
-! buttIreliakappa.png				:buttIreliakappa: :buttireliakappa:
-! buttInfiltrator.png				:buttInfiltrator: :buttinfiltrator:
-! buttFrostblade.png				:buttFrostblade: :buttfrostblade:
-! buttBang.png				:buttBang: :buttbang:
+! buttUmad.png				:buttUmad: :buttumad: :icuUmad: :icuumad:
+! buttNightblade.png				:buttNightblade: :buttnightblade: :icuNightblade: :icunightblade:
+! buttIreliakappa.png				:buttIreliakappa: :buttireliakappa: :icuIreliakappa: :icuireliakappa:
+! buttInfiltrator.png				:buttInfiltrator: :buttinfiltrator: :icuInfiltrator: :icuinfiltrator:
+! buttFrostblade.png				:buttFrostblade: :buttfrostblade: :icuFrostblade: :icufrostblade:
+! buttBang.png				:buttBang: :buttbang: :icuBang: :icubang:
 ! amazW.png				:amazW: :amazw:
 ! amazTop.png				:amazTop: :amaztop:
 ! amazToast.png				:amazToast: :amaztoast:
