@@ -1,10 +1,33 @@
 Name=Teledildonics Emote Pack
-Description=Updated 2017-01-19
+Description=Updated 2017-03-25
 Icon=amazSis.png
 Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan Severasse, Adium definitions created with TrevInc converter script)
 
 [default]
 
+! omg.png				:omg:
+! works.png				:works: :worksonmymachine:
+! vidya.png				:vidya: :videogames:
+! titan.png				:titan:
+! timetostop.png				:stop: :timetostop:
+! thestand.png				:thestand:
+! stando76.png				:s76:
+! spurdo.png				:spurdo:
+! rylaiwub.png				:rylai2:
+! outskilled.png				:outskilled:
+! manos.png				:manos:
+! kcat.png				:innocent: :khajiit:
+! cat.png				:cat: 🐱
+! jojo3.png				:jojo3:
+! ethical.png				:ethical:
+! diowhatever.png				:dio3:
+! diopepe.png				:zawarudo: :diop: :diopepe:
+! dio2.gif				:dio2: :muda:
+! dio.png				:dio:
+! autismincreased.png				:autism2: :increased:
+! jojo2.png				:jojo2: :jojostare:
+! Kekyoin.png					:kakyoin: :kekyoin:
+! spurdoicontest.png				discbot: :spi:
 ! hatred.png				:hatred: :channelhatred:
 ! rape.gif				:rape:
 ! 6headLUL.png				:6headLUL: :6headlul:
@@ -135,7 +158,7 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 ! 477.png				:477: :dr4:
 ! Sombra-portrait.png				:sombra:
 ! Sombra_ult.png				:sombrault: :emp:
-! thinking_face.png				:thinking: :thinking_face:
+! thinking_face.png				:thinking: :thinking_face: 🤔
 ! aelia.png				:aelia:
 ! dustoo.png				:dustoo:
 ! jana.png				:jana:
@@ -321,7 +344,7 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 ! VoteYea.png				:VoteYea: :voteyea:
 ! venomsnake.png				:venomsnake: :venom:
 ! garroshmaga.png				:garroshmaga: :horde:
-! jojo.png				:jojo:
+! jojo.png				:jojo: :jojostonk:
 ! tito.png				:badnews:
 ! nakedsnake.png				:nakedsnake:
 ! solidsnake.png				:solidsnake:
@@ -500,7 +523,7 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 ! denton.png				:denton:
 ! disenchant.jpg				:disenchant:
 ! expanding.png				:expanding:
-! fox.jpg				:fox:
+! fox.jpg				:fox: 🦊
 ! fuckmagic.png				:magicsucks:
 ! imaqtpie.png				:imaqtpie:
 ! jensen.png				:jensen:
