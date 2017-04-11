@@ -5,6 +5,111 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 
 [default]
 
+! thonking.png				:thonking:
+! noose.png				:noose:
+! hmmyes.png				:hmm: :hmmyes:
+! variks.jpg				:variks: :yes:
+! andstaydown.png				:andstaydown:
+! angeloflight.png				:angeloflight:
+! arcblade.png				:arcblade: :bladedance:
+! archivistseal.jpg				:archivistseal: :dogball:
+! backstab.png				:backstab:
+! bethedanger.png				:bethedanger: :trespasser:
+! blackhammer.jpg				:blackhammer:
+! bladedancer.jpg				:bladedancer:
+! blastshield.png				:blastshield:
+! blink.png				:blink:
+! blinkstrike.png				:blinkstrike:
+! boltfromtheblue.png				:boltfromtheblue: :zhalo: :supercell:
+! cauterize.png				:cauterize:
+! citywatch.jpg				:citywatch:
+! cryhavoc.png				:cryhavoc:
+! deadorbit.jpg				:deadorbit:
+! defender.jpg				:defender:
+! devourer.png				:devourer: :thorn:
+! disintegrate.png				:disintegrate:
+! doitmyself.png				:doitmyself:
+! doublejump.png				:doublejump:
+! energydrain.png				:energydrain:
+! eyeofosiris.jpg				:eyeofosiris: :flawless:
+! fateofallfools.png				:fateofallfools:
+! fcdeadeye.png				:firstcurse:
+! fireborn.png				:fireborn:
+! firefly.png				:firefly:
+! fistofhavoc.png				:fistofhavoc:
+! fusiongrenade.png				:fusiongrenade:
+! fwc.jpg				:fwc:
+! glide.png				:glide:
+! goldengun.png				:goldengun:
+! gunslinger.jpg				:gunslinger:
+! gutted.png				:gutted:
+! hammerandtongs.png				:hammerandtongs:
+! hammerofsol.png				:hammerofsol: :balance: ⚖
+! harbingerspark.png				:harbingerspark: :thebesto:
+! hereafter.png				:hereafter:
+! hiddenhand.png				:hiddenhand: :queenbreaker: :qbb:
+! hivedisruptor.png				:hivedisruptor: :hiveburn:
+! holdingaces.png				:holdingaces: :hawkmoon:
+! icebreaker.png				:icebreaker:
+! innercircle.jpg				:innercircle:
+! invective.png				:invective:
+! jaderabbit.jpg				:jaderabbit:
+! lifesupport.png				:lifesupport:
+! lift.png				:lift:
+! lockdown.png				:lockdown:
+! luckinthechamber.png				:luckinthechamber: :litc:
+! lwfanfire.png				:fanthehammer: :fanfire: :lastword: :tlw:
+! multitool.png				:multitool: :mida:
+! newmonarchy.jpg				:newmonarchy:
+! nightstalker.jpg				:nightstalker:
+! nomercy.png				:nomercy:
+! novabomb.png				:novabomb:
+! peregrinestrike.png				:peregrinestrike: :knee:
+! perpcharge.png				:perpetualcharge: :charge:
+! pocketinfinity.png				:pocketinfinity:
+! praisethesun.png				:praisethesun:
+! radiance.png				:radiance:
+! rewindagain.png				:rewindagain: :rewind: :ntte: :notimetoexplain:
+! runforyourlife.png				:runforyourlife: :tornbetweendimensions: :relicbearer:
+! scorch.png				:scorch:
+! scorchedearth.png				:scorchedearth:
+! sendit.png				:sendit:
+! shadowshot.png				:shadowshot:
+! shouldercharge.png				:shouldercharge:
+! sleepersimulant.png				:sleepersimulant:
+! smokegrenade.png				:smokegrenade:
+! spacemagic.png				:spacemagic:
+! stormbringer.png				:stormbringer:
+! stormcaller.jpg				:stormcaller:
+! stormfist.png				:stormfist:
+! stormtrance.png				:stormtrance:
+! striker.jpg				:striker:
+! stringofcurses.png				:stringofcurses: :badjuju: :juju:
+! sunbreaker.jpg				:sunbreaker:
+! sunsinger.jpg				:sunsinger:
+! sunstrike.png				:sunstrike:
+! supergoodadvice.png				:supergoodadvice: :sga:
+! themaster.png				:themaster: :nolandbeyond: :nlb:
+! thesurvivor.png				:thesurvivor: :chaperone:
+! throwingknife.png				:throwingknife:
+! thunderstrike.png				:thunderstrike:
+! touchofmalice.png				:touchofmalice:
+! touchofmercy.png				:touchofmercy:
+! tripledouble.png				:tripledouble:
+! tripletapd.png				:tripletap:
+! unplannedreprieve.png				:unplannedreprieve: :telesto:
+! vanguard.jpg				:vanguard:
+! vikingfuneral.png				:vikingfuneral: :viking:
+! voidwalker.jpg				:voidwalker:
+! wardofdawn.png				:wardofdawn:
+! wayofthegun.png				:wayofthegun:
+! whirlwindcurse.png				:whirlwindcurse: :fallenburn:
+! whitenail.png				:whitenail:
+! wildhunt.png				:wildhunt:
+! willoflight.png				:willoflight: :takenburn:
+! wolfpack.png				:wolfpack: :gjally: :gjallarhorn:
+! zmdynamite.png				:zenmeteor: :dynamite:
+! zmwithalaserbeam.png				:laserbeam:
 ! omg.png				:omg:
 ! works.png				:works: :worksonmymachine:
 ! vidya.png				:vidya: :videogames:
@@ -542,7 +647,7 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 ! shieldbearer.png				:shieldbearer:
 ! smite.gif				:smite:
 ! topsaint.png				:topsaint:
-! tripletap.png				:tripletap:
+! tripletap.png				:hotstripletap:
 ! vivec.png				:vehk:
 ! wizards.png				:wizards:
 ! dog911.gif			:dog911:
@@ -553,7 +658,7 @@ Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan S
 ! dankmemes.jpg				:dankmemes:
 ! a.png					:kbstats: :a: :dyson: :dys0n: :Dys0n: :Dyson:
 ! autismspeaks.png    :autism: :gevlon:
-! ayylmao.gif :ayylmao:
+! ayylmao.gif :ayylmao: 👽
 ! booda.gif    :booda:
 ! brah.png	:brah:
 ! brave.gif		:brave:
