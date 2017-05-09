@@ -1,10 +1,143 @@
 Name=Teledildonics Emote Pack
-Description=Updated 2017-04-11
+Description=Updated 2017-05-09
 Icon=amazSis.png
 Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan Severasse, Adium definitions created with TrevInc converter script)
 
 [default]
 
+! Baby.gif				:babyrainbow: :rainbowbaby:
+! bwtoon.png				:bwtoon:
+! fug.png				:fug: :fugbeer:
+! gnome.png				:gnome:
+! jaitoon.png				:jaitoon: :jaiheyguys:
+! kerrtat.png				:kerrtat:
+! lilitoon.png				:lilitoon: :lilitea:
+! limpaper.png				:limpaper:
+! limtoon.png				:limtoon: :limwrongkiddo: :limkiddo:
+! luccerial.png				:luccerial:
+! naztoon.png				:naztoon:
+! ok_hand.png				:ok_hand:
+! patroklos.png				:patroklos:
+! Protoss.png				:protoss:
+! puck.png				:puck: :swide2:
+! rehpaper.png				:rehpaper:
+! Snake.png				:snake:
+! sylvtoon.png				:sylvtoon:
+! Terran.png				:terran:
+! Terrandominion.png				:terrandominion:
+! TerranRaiders.png				:terranraiders: :raynorsraiders: :raidersroll:
+! Valeera.png				:valeera2:
+! valltat.png				:valltat:
+! zarbear.png				:zarbear:
+! Zerg.png				:zerg:
+! B.png				:B:
+! C.png				:C:
+! G.png				:G:
+! R.png				:R:
+! U.png				:U:
+! W.png				:W:
+! X.png				:X:
+! bwangry.png				:bwangry:
+! bwcool.png				:bwcool:
+! bwhappy.png				:bwhappy:
+! bwlol.png				:bwlol:
+! bwlove.png				:bwlove:
+! bwmeh.png				:bwmeh:
+! bwoops.png				:bwoops:
+! bwsad.png				:bwsad:
+! bwsilly.png				:bwsilly:
+! bwwow.png				:bwwow:
+! gulangry.png				:gulangry:
+! gulcool.png				:gulcool:
+! gulhappy.png				:gulhappy:
+! gullol.png				:gullol:
+! gullove.png				:gullove:
+! gulmeh.png				:gulmeh:
+! guloops.png				:guloops:
+! gulsad.png				:gulsad:
+! gulsilly.png				:gulsilly:
+! gulwow.png				:gulwow:
+! jaiangry.png				:jaiangry:
+! jaicool.png				:jaicool:
+! jaihappy.png				:jaihappy:
+! jailol.png				:jailol:
+! jailove.png				:jailove:
+! jaimeh.png				:jaimeh:
+! jaioops.png				:jaioops:
+! jaisad.png				:jaisad:
+! jaisilly.png				:jaisilly:
+! jaiwow.png				:jaiwow:
+! liliangry.png				:liliangry:
+! lilicool.png				:lilicool:
+! lilihappy.png				:lilihappy:
+! lililol.png				:lililol:
+! lililove.png				:lililove:
+! lilimeh.png				:lilimeh:
+! lilioops.png				:lilioops:
+! lilisad.png				:lilisad:
+! lilisilly.png				:lilisilly:
+! liliwow.png				:liliwow:
+! limangry.png				:limangry:
+! limcool.png				:limcool:
+! limhappy.png				:limhappy:
+! limlol.png				:limlol:
+! limlove.png				:limlove:
+! limmeh.png				:limmeh:
+! limoops.png				:limoops:
+! limsad.png				:limsad:
+! limsilly.png				:limsilly:
+! limwow.png				:limwow:
+! lunaangry.png				:lunaangry:
+! lunacool.png				:lunacool:
+! lunahappy.png				:lunahappy:
+! lunalol.png				:lunalol:
+! lunalove.png				:lunalove:
+! lunameh.png				:lunameh:
+! lunaoops.png				:lunaoops:
+! lunasad.png				:lunasad:
+! lunasilly.png				:lunasilly:
+! lunawow.png				:lunawow:
+! novaangry.png				:novaangry:
+! novacool.png				:novacool:
+! novahappy.png				:novahappy:
+! novalol.png				:novalol:
+! novalove.png				:novalove:
+! novameh.png				:novameh:
+! novaoops.png				:novaoops:
+! novasad.png				:novasad:
+! novasilly.png				:novasilly:
+! novawow.png				:novawow:
+! sylvangry.png				:sylvangry:
+! sylvcool.png				:sylvcool:
+! sylvhappy.png				:sylvhappy:
+! sylvlol.png				:sylvlol:
+! sylvlove.png				:sylvlove:
+! sylvmeh.png				:sylvmeh:
+! sylvoops.png				:sylvoops:
+! sylvsad.png				:sylvsad:
+! sylvsilly.png				:sylvsilly:
+! sylvwow.png				:sylvwow:
+! tyraangry.png				:tyraangry:
+! tyraanim.gif				:tyraanim:
+! tyracool.png				:tyracool:
+! tyrahappy.png				:tyrahappy:
+! tyralol.png				:tyralol:
+! tyralove.png				:tyralove:
+! tyrameh.png				:tyrameh:
+! tyraoops.png				:tyraoops:
+! tyrasad.png				:tyrasad:
+! tyrasilly.png				:tyrasilly:
+! tyrawow.png				:tyrawow:
+! valeangry.png				:valeangry:
+! valecool.png				:valecool:
+! valehappy.png				:valehappy:
+! valelol.png				:valelol:
+! valelove.png				:valelove:
+! valemeh.png				:valemeh:
+! valeoops.png				:valeoops:
+! valesad.png				:valesad:
+! valesilly.png				:valesilly:
+! valewow.png				:valewow:
 ! thonking.png				:thonking:
 ! noose.png				:noose:
 ! hmmyes.png				:hmm: :hmmyes:
@@ -1991,7 +2124,6 @@ emot-bahgawd.gif :dbrb:
 ! emot-woof.gif :woof:
 ! emot-wooper.gif :wooper:
 ! emot-xie.gif :xie:
-! emot-zerg.gif :zerg:
 ! emot-2bong.png :2bong:
 ! emot-350.gif :350:
 ! emot-weed.gif :420:
