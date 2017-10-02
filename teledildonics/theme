@@ -1,10 +1,24 @@
 Name=Teledildonics Emote Pack
-Description=Updated 2017-05-09
-Icon=amazSis.png
+Description=Updated 2017-10-01
+Icon=book.png
 Author=Nikita Haley (With resources from Querns, Berach Damhain, and Johnathan Severasse, Adium definitions created with TrevInc converter script)
 
 [default]
 
+! ahrino.png				:ahrino:
+! book.png				:book:
+! fucku.png				:fucku:
+! gucci.png				:gucci:
+! jinx2.png				:jinx2:
+! leona2.png				:leona2:
+! lux2.png				:lux2:
+! nothanks.jpg				:nothanks:
+! Pervert.png				:hazoret:
+! sanjuro2.png				:sanjuro:
+! soraka2.gif				:soraka2:
+! Thumbs.db				:Thumbs: :thumbs:
+! tyler1.png				:tyler1: :homunculus:
+! zilean2.gif				:zilean2:
 ! monkaS.png				:monkaS: :monkas:
 ! awoo.png				:awoo:
 ! azuki2.png				:azuki2:
