@@ -1,6 +1,6 @@
 # teledildonics
 Illumittani emote pack
-Custom emote pack for Pidgin and Adium that includes the GSF's SA emotes, some emotes from Berachs old EVE Emote pack, various Twitch emotes, and a few custom additions. Many of these emotes are not work-safe and may be not suitable for minors.
+Custom emote pack for Pidgin and Adium that includes the GSF's SA emotes, some emotes from Berachs old EVE Emote pack, various Twitch emotes, and a few custom additions. Many of these emotes are not work-safe and may be not suitable for minors. Features dank memes.
 
 To install in Pidgin:
 
