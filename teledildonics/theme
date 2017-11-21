@@ -4,6 +4,67 @@ Icon=SA-Emoticon-Logo.png
 Author=http://sae.tweek.us
 
 [default]
+! arcblade.png				:arcblade:
+! archivistseal.jpg				:archivistseal: :dogball:
+! arcsoul.png				:arcsoul:
+! arcstaff.png				:arcstaff:
+! arcstrider.png				:arcstrider:
+! blackhammer.jpg				:blackhammer:
+! bladedancer.jpg				:bladedancer:
+! blink.png				:blink:
+! citywatch.jpg				:citywatch:
+! dawnblade.png				:dawnblade:
+! daybreak.png				:daybreak:
+! deadorbit.jpg				:deadorbit:
+! defender.jpg				:defender:
+! devour.png				:devour:
+! doitmyself.png				:doitmyself:
+! fireborn.png				:fireborn:
+! firefly.png				:firefly:
+! fistofhavok.png				:fistofhavok:
+! fusionharness.png				:fusionharness: :starfire: :starfireprotocol:
+! fwc.jpg				:fwc:
+! goldengun.png				:goldengun:
+! gunslinger.jpg				:gunslinger1:
+! gunslinger.png				:gunslinger:
+! hammerofsol.png				:hammerofsol:
+! hawkeye.png				:hawkeye: :nighthawk: :celestialnighthawk:
+! heliumspiral.png				:heliumspiral:
+! hiddenhand.png				:hiddenhand:
+! innercircle.jpg				:innercircle:
+! jaderabbit.jpg				:jaderabbit:
+! lostlight.png				:lostlight:
+! magnitude.png				:magnitude:
+! newmonarchy.jpg				:newmonarchy:
+! nightstalker.jpg				:nightstalker1:
+! nightstalker.png				:nightstalker:
+! nomercy.png				:nomercy:
+! novabomb.png				:novabomb:
+! phoenixdive.png				:phoenixdive:
+! pocketinfinity.png				:pocketinfinity: :warmind:
+! praisethesun.png				:praisethesun:
+! pulsegrenade.png				:pulsegrenade: :balance:
+! radiance.png				:radiance:
+! sendit.png				:sendit:
+! sentinel.png				:sentinel:
+! sentinelshield.png				:sentinelshield:
+! shadowshot.png				:shadowshot:
+! sixshooter.png				:sixshooter:
+! stormcaller.jpg				:stormcaller1:
+! stormcaller.png				:stormcaller:
+! stormtrance.png				:stormtrance:
+! striker.jpg				:striker1:
+! striker.png				:striker:
+! sunbreaker.jpg				:sunbreaker1:
+! sunbreaker.png				:sunbreaker:
+! sunburn.png				:sunburn:
+! sunsinger.jpg				:sunsinger:
+! uncannyarrows.png				:uncannyarrows: :orpheus:
+! vanguard.jpg				:vanguard:
+! voidwalker.jpg				:voidwalker1:
+! voidwalker.png				:voidwalker:
+! wardofdawn.png				:wardofdawn:
+! wolfpack.png				:wolfpack: :gjallarhorn:
 ! 0.png				:0:
 ! 1.png				:1:
 ! 15.png				:15:
