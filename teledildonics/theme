@@ -4,6 +4,27 @@ Icon=SA-Emoticon-Logo.png
 Author=http://sae.tweek.us
 
 [default]
+! 0.png				:0:
+! 1.png				:1:
+! 15.png				:15:
+! 2.png				:2:
+! 3.png				:3:
+! 4.png				:4:
+! 5.png				:5:
+! 6.png				:6:
+! B.png				:B:
+! BP.png				:BP:
+! C.png				:C:
+! G.png				:G:
+! GP.png				:GP:
+! R.png				:R:
+! RP.png				:RP:
+! S.png				:S:
+! U.png				:U:
+! UP.png				:UP:
+! W.png				:W:
+! WP.png				:WP:
+! X.png				:X:
 ! emot-2001.png	:30bux:
 ! emot-3.gif	:3:
 emot-aaa.gif	:aaa:
